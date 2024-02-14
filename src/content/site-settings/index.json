@@ -1,0 +1,48 @@
+{
+  "widgets": {
+    "chat": {
+      "showQA": false,
+      "showHelp": false,
+      "defaultScope": "page",
+      "enabled": false
+    },
+    "schedule": {
+      "allowClick": true
+    }
+  },
+  "lastBuild": 1684857645226,
+  "staticJsonFilesBuildTime": [
+    {
+      "file": "src/data/summit.json",
+      "build_time": 1684857641094
+    },
+    {
+      "file": "src/data/events.json",
+      "build_time": 1684857643502
+    },
+    {
+      "file": "src/data/events.idx.json",
+      "build_time": 1684857643504
+    },
+    {
+      "file": "src/data/speakers.json",
+      "build_time": 1684857644269
+    },
+    {
+      "file": "src/data/speakers.idx.json",
+      "build_time": 1684857644270
+    },
+    {
+      "file": "src/data/voteable-presentations.json",
+      "build_time": 1684857645226
+    }
+  ],
+  "favicons": {
+    "favicon180": "/img/favicon.png",
+    "favicon32": "/img/favicon.png",
+    "favicon16": "/img/favicon.png"
+  },
+  "siteMetadata": {
+    "title": "Default"
+  }
+}
