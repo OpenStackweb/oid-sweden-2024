@@ -37,11 +37,6 @@
       "build_time": 1684857645226
     }
   ],
-  "favicons": {
-    "favicon180": "/img/favicon.png",
-    "favicon32": "/img/favicon.png",
-    "favicon16": "/img/favicon.png"
-  },
   "siteMetadata": {
     "title": "OpenInfra Days Sweden",
     "image": "oid-sweden.png"
@@ -56,5 +51,35 @@
     "boldFont": {
       "fontFile": "/static/fonts/robotocondensed-bold.ttf"
     }
-  }
+  },
+  "identityProviderButtons": [
+    {
+      "buttonColor": "#082238",
+      "providerLabel": "Sign in with OpenInfraID",
+      "providerLogo": "openstackicon.png",
+      "providerLogoSize": 18
+    },
+    {
+      "buttonColor": "#0A66C2",
+      "providerLabel": "Sign in with LinkedIn",
+      "providerParam": "linkedin",
+      "providerLogo": "logo_linkedin.svg",
+      "providerLogoSize": 17
+    },
+    {
+      "buttonColor": "#000000",
+      "buttonBorderColor": "",
+      "providerLabel": "Sign in with Apple",
+      "providerParam": "apple",
+      "providerLogoSize": 17,
+      "providerLogo": "logo_apple.svg"
+    },
+    {
+      "buttonColor": "#1877F2",
+      "providerLabel": "Login with Facebook",
+      "providerParam": "facebook",
+      "providerLogo": "logo_facebook.svg",
+      "providerLogoSize": 19
+    }
+  ]
 }
