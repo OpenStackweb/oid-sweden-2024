@@ -46,15 +46,6 @@
       ]
     },
     {
-      "title": "Help",
-      "link": "/help",
-      "display": true,
-      "requiresAuth": false,
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
       "title": "My Orders/Tickets",
       "link": "/a/my-tickets",
       "display": true,
