@@ -1,9 +1,9 @@
 {
   "hero": {
-    "title": "TIER 1 - EVENT NAME HERE",
-    "date": "Date Information",
+    "title": "OpenInfra Day Sweden",
+    "date": "May 7, 2024",
     "dateLayout": true,
-    "time": "Timezone",
+    "time": "",
     "buttons": {
       "registerButton": {
         "text": "Register Now",
@@ -24,7 +24,10 @@
       {
         "src": "tier1-default-header3.png"
       }
-    ]
+    ],
+    "background": {
+      "src": "openinfradays-bg.png"
+    }
   },
   "countdown": {
     "display": true,
@@ -86,7 +89,7 @@
   "widgets": {
     "text": {
       "display": true,
-      "content": "The YOCO Summit was created to showcase our new FNvirtual event platform. YOCO—short for “Your Company”—was dreamed up by our creative team, allowing us to play with a faux brand in the full environment. YOCO has its own guidelines, voice, and visual identity. Pretty spiffy for a company that doesn’t exist, eh?\n\n[Check out our branding guidelines!](https://www.dropbox.com/s/w7qiav79lnnl93r/__FNvirtual-YOCO-site-guidelines.pdf?dl=0)\n\nBy the way, did you notice the “sponsor” and brand partner ads peppered throughout the site? Some are real companies that we know and love; others are faux brands we created so as to not step on another company’s branded toes. We think it works pretty well. How about you? Email us at [info@fntech.com](mailto:info@fntech.com)!"
+      "content": "## Welcome to OpenInfra Day Sweden 2024!\n\nOn May 7 we will gather at Volvohallen in Gothenburg for yet another Swedish-powered community event about open infrastructure, OpenStack, Kubernetes, and the most relevant technologies in the ecosystem.\n\nThe event is FREE of charge and you can contribute by submitting your talk already today!\n\n### Pre-Event Timeline\n\n* 19 Feb: [CFP opens](https://docs.google.com/forms/d/e/1FAIpQLSfCvmgoq_9cqIDxz2K3ZI5dPZvsUSaaksGJpVEKt-6U89Udzg/viewform) (00:00 GMT\n* 24 Mar: CFP closes (23:59 GMT)\n* 08 Apr: Announcement of selected talks\n\n### Event Program\n\n*Coming soon!*\n\nOpenInfra Day Sweden is organized in collaboration with the OpenInfra Foundation and part of OpenInfra Days Europe, a series of community-powered OpenInfra Days and meetups throughout May and June 2024.\n\nThe event is not for profit, organised by volunteering members of the community and supported by the OpenInfra Foundation.\n\nTogether we hope to get the opportunity to meet, learn and discuss a collaborative future towards an openly-developed infrastructure.\n\nThe OpenInfra Day Sweden 2024 team."
     }
   }
 }
