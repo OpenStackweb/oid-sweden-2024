@@ -1,8 +1,8 @@
 {
   "columns": [
     {
-      "title": "The Event",
-      "display": true,
+      "title": "",
+      "display": false,
       "items": [
         {
           "title": "All Projects",
@@ -56,7 +56,7 @@
   },
   "social": {
     "title": "Follow Us",
-    "display": true,
+    "display": false,
     "networks": [
       {
         "icon": "fa-facebook",
@@ -77,16 +77,8 @@
   },
   "legal": [
     {
-      "title": "Privacy Policy",
-      "link": "/privacy-policy/"
-    },
-    {
-      "title": "Cookie Policy",
-      "link": "/cookie-policy/"
-    },
-    {
-      "title": "California Privacy Rights Statement",
-      "link": "/california-privacy-rights-statement/"
+      "title": "Code of Conduct",
+      "link": "https://openinfra.dev/legal/code-of-conduct/events"
     }
   ]
 }
