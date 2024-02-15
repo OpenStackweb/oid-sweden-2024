@@ -16,17 +16,11 @@
     },
     "images": [
       {
-        "src": "tier1-default-header1.png"
-      },
-      {
-        "src": "tier1-default-header2.png"
-      },
-      {
-        "src": "tier1-default-header3.png"
+        "src": "openinfradays-bg.png"
       }
     ],
     "background": {
-      "src": "openinfradays-bg.png"
+      "src": ""
     }
   },
   "countdown": {
