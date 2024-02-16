@@ -20,6 +20,26 @@
       "display": true
     },
     {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
+      "title": "Switzerland",
+      "link": "https://indico.cern.ch/e/openinfra-cern-2024",
+      "display": true
+    },
+    {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
+      "title": "Turkiye",
+      "link": "https://openinfraturkiye.org.tr/event-registration/",
+      "display": true
+    },
+    {
       "title": "About OpenInfra Days",
       "link": "https://openinfra.dev/",
       "display": true,
