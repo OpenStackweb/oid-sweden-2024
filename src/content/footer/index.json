@@ -79,6 +79,10 @@
     {
       "title": "Code of Conduct",
       "link": "https://openinfra.dev/legal/code-of-conduct/events"
+    },
+    {
+      "title": "Help",
+      "link": "mailto:events@openinfra.dev"
     }
   ]
 }
