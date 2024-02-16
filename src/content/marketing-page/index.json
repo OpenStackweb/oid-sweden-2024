@@ -24,7 +24,7 @@
     }
   },
   "countdown": {
-    "display": true,
+    "display": false,
     "text": "Event Kickoff"
   },
   "leftColumn": {
@@ -83,7 +83,7 @@
   "widgets": {
     "text": {
       "display": true,
-      "content": "## Welcome to OpenInfra Day Sweden 2024!\n\nOn May 7 we will gather at Volvohallen in Gothenburg for yet another Swedish-powered community event about open infrastructure, OpenStack, Kubernetes, and the most relevant technologies in the ecosystem.\n\nThe event is FREE of charge and you can contribute by submitting your talk already today!\n\n### Pre-Event Timeline\n\n* 19 Feb: [CFP opens](https://docs.google.com/forms/d/e/1FAIpQLSfCvmgoq_9cqIDxz2K3ZI5dPZvsUSaaksGJpVEKt-6U89Udzg/viewform) (00:00 GMT\n* 24 Mar: CFP closes (23:59 GMT)\n* 08 Apr: Announcement of selected talks\n\n### Event Program\n\n*Coming soon!*\n\nOpenInfra Day Sweden is organized in collaboration with the [OpenInfra Foundation](https://openinfra.dev) and part of OpenInfra Days Europe, a series of community-powered OpenInfra Days and meetups throughout May and June 2024.\n\nThe event is not for profit, organised by volunteering members of the community and supported by the OpenInfra Foundation.\n\nTogether we hope to get the opportunity to meet, learn and discuss a collaborative future towards an openly-developed infrastructure.\n\n\\-- *The OpenInfra Day Sweden 2024 team*"
+      "content": "# OpenInfra Days Special Edition\n\n**OpenInfra Days Europe is a series of community-powered OpenInfra Days and meetups throughout Europe.**\n\nThe event will take place throughout **May and June 2024 in Sweden, Germany, Turkiye and France**. In addition, other regions including the UK and Switzerland will be participating with meetups!\n\nThe CFPs for these events will be going live in Q1 of 2024. In the meantime take a look at how your organization can [support these events by being a sponsor](https://openinfrafoundation.formstack.com/forms/2024_openinfra_events_updates)."
     }
   }
 }
