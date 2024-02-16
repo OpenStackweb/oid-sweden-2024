@@ -40,7 +40,7 @@
     {
       "title": "Code of Conduct",
       "link": "https://openinfra.dev/legal/code-of-conduct/events",
-      "display": true,
+      "display": false,
       "requiresAuth": false,
       "pageRestriction": [
         "ANY"
@@ -49,7 +49,7 @@
     {
       "title": "Help",
       "link": "mailto:events@openinfra.dev",
-      "display": true,
+      "display": false,
       "requiresAuth": false,
       "pageRestriction": [
         "ANY"
