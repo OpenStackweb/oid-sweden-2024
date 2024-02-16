@@ -3,17 +3,8 @@
     {
       "title": "Lobby",
       "link": "/a/",
-      "display": true,
+      "display": false,
       "requiresAuth": true,
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
-      "title": "Sponsors ",
-      "link": "https://openinfrafoundation.formstack.com/forms/2024_openinfra_events_updates",
-      "display": true,
-      "requiresAuth": false,
       "pageRestriction": [
         "ANY"
       ]
@@ -31,6 +22,15 @@
     {
       "title": "About OpenInfra Days",
       "link": "https://openinfra.dev/",
+      "display": true,
+      "requiresAuth": false,
+      "pageRestriction": [
+        "ANY"
+      ]
+    },
+    {
+      "title": "Sponsors ",
+      "link": "https://openinfrafoundation.formstack.com/forms/2024_openinfra_events_updates",
       "display": true,
       "requiresAuth": false,
       "pageRestriction": [
