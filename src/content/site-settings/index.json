@@ -38,8 +38,8 @@
     }
   ],
   "siteMetadata": {
-    "title": "OpenInfra Days Sweden",
-    "image": "oid-sweden.png"
+    "title": "OpenInfra Days Europe",
+    "image": "oideurope.png"
   },
   "favicon": {
     "asset": "openstackicon.png"
