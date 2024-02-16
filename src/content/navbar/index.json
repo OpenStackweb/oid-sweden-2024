@@ -11,12 +11,22 @@
     },
     {
       "title": "Sponsors ",
-      "link": "/a/sponsors/",
-      "display": false,
+      "link": "https://openinfrafoundation.formstack.com/forms/2024_openinfra_events_updates",
+      "display": true,
       "requiresAuth": false,
       "pageRestriction": [
         "ANY"
       ]
+    },
+    {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
+      "title": "Sweden",
+      "link": "/about-event",
+      "display": true
     },
     {
       "title": "About OpenInfra Days",
