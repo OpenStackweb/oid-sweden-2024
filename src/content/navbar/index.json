@@ -3,7 +3,7 @@
     {
       "title": "Home",
       "link": "/a/",
-      "display": false,
+      "display": true,
       "requiresAuth": true,
       "pageRestriction": [
         "ANY"
