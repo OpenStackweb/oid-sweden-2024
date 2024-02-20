@@ -27,7 +27,7 @@
       ],
       "title": "Switzerland",
       "link": "https://indico.cern.ch/e/openinfra-cern-2024",
-      "display": true
+      "display": false
     },
     {
       "requiresAuth": false,
