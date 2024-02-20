@@ -5,9 +5,9 @@ userRequirement: NONE
 ---
 ## Welcome to OpenInfra Day Sweden 2024!
 
-On May 7 we will gather at Volvohallen in Gothenburg for yet another Swedish-powered community event about open infrastructure, OpenStack, Kubernetes, and the most relevant technologies in the ecosystem. [Register now](https://oideurope2024.openinfra.dev/#registration=1) or complete the [CFP](https://docs.google.com/forms/d/e/1FAIpQLSfCvmgoq_9cqIDxz2K3ZI5dPZvsUSaaksGJpVEKt-6U89Udzg/viewform)!
+On May 7 we will gather at Volvohallen in Gothenburg for yet another Swedish-powered community event about open infrastructure, OpenStack, Kubernetes, and the most relevant technologies in the ecosystem.
 
-The event is **FREE of charge** with focus on Automotive. Join us or [submit your talk today](https://docs.google.com/forms/d/e/1FAIpQLSfCvmgoq_9cqIDxz2K3ZI5dPZvsUSaaksGJpVEKt-6U89Udzg/viewform)!
+The event is **FREE of charge** with focus on Automotive. [Join us](https://oideurope2024.openinfra.dev/#registration=1) or [submit your talk today](https://docs.google.com/forms/d/e/1FAIpQLSfCvmgoq_9cqIDxz2K3ZI5dPZvsUSaaksGJpVEKt-6U89Udzg/viewform)!
 
 ### Pre-Event Timeline
 
