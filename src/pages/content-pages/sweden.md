@@ -1,6 +1,6 @@
 ---
 templateKey: content-page
-title: Sweden
+title: OpenInfra Day Sweden
 userRequirement: NONE
 ---
 ## Welcome to OpenInfra Day Sweden 2024!
