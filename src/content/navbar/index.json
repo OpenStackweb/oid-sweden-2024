@@ -15,6 +15,16 @@
       "pageRestriction": [
         "ANY"
       ],
+      "title": "Germany",
+      "link": "/germany",
+      "display": true
+    },
+    {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
       "title": "Sweden",
       "link": "/sweden",
       "display": true
