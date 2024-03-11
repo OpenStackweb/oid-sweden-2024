@@ -51,7 +51,7 @@
     },
     {
       "title": "About OpenInfra Days",
-      "link": "https://openinfra.dev/",
+      "link": "https://openinfra.dev/days",
       "display": true,
       "requiresAuth": false,
       "pageRestriction": [
