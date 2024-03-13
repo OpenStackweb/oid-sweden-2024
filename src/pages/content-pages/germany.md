@@ -9,7 +9,7 @@ On May 15, 2024 we will meet together with our community, sponsors, OpenInfra re
 
 OpenInfra Day Germany is being planned in conjunction with the [Sovereign Cloud Stack Summit](https://scs.community/summit2024/)! The Sovereign Cloud Stack Summit will be hosted at the same venue the day prior on 14 May. Please note that registration for OpenInfra Day Germany and the Sovereign Cloud Stack Summit are separate. **You must register for each event separately**. 
 
-Entry to OpenInfra Day Germany is free! [Join us](https://oideurope2024.openinfra.dev/#registration=1), [sponsor the event](https://openinfra.dev/events/sponsorship) or [submit your talk today](https://forms.gle/KJzFYxVSh7JadurSA)!
+Entry to OpenInfra Day Germany is free! [Join us](https://oideurope2024.openinfra.dev/#registration=1), [sponsor the event](https://openinfra.dev/events/sponsorship/#Germany) or [submit your talk today](https://forms.gle/KJzFYxVSh7JadurSA)!
 
 The auditorium where OpenInfra Days Germany sessions will be presented is not barrier-free (no elevator, only stairways). If you need assistance getting to the auditorium (without an elevator), please [contact us](mailto:events@openinfra.dev).
 
@@ -31,4 +31,4 @@ We look forward to a great time together in Berlin!
 
 The OpenInfra Day Germany team
 
-**[Register Now](https://oideurope2024.openinfra.dev/#registration=1) | [CFP](https://forms.gle/KJzFYxVSh7JadurSA) | [Sponsor](https://openinfra.dev/events/sponsorship)**
+**[Register Now](https://oideurope2024.openinfra.dev/#registration=1) | [CFP](https://forms.gle/KJzFYxVSh7JadurSA) | [Sponsor](https://openinfra.dev/events/sponsorship/#Germany)**
