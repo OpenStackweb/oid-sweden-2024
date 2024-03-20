@@ -17,6 +17,6 @@ On 22 May 2024, we will gather in Palaiseu, France for OpenInfra Day France wh
 
 ### Regsitration Prices
 
-* 21 March - 19 April: Early Bird Price 50€
-* 19 April - 21 May: Normal Price 70€
-* May 22: Day-of price 100€
+* Early bird: now - 19 April: 50€
+* Regular price: 20 April - 15 May: 70€
+* Late bird: 16 May - 22 May: 90€
