@@ -15,6 +15,16 @@
       "pageRestriction": [
         "ANY"
       ],
+      "title": "France",
+      "link": "/france",
+      "display": true
+    },
+    {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
       "title": "Germany",
       "link": "/germany",
       "display": true
