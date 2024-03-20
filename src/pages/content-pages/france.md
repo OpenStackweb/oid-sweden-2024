@@ -1,13 +1,13 @@
 ---
 templateKey: content-page
-title: France
+title: OpenInfra Day France
 userRequirement: NONE
 ---
+##### 22 May 2024 | Palaiseau, France | [EDF Lab Paris-Saclay](https://maps.app.goo.gl/sxxPmcTnYe4Dh3f18)
+
 On 22 May 2024, we will gather in Palaiseu, France for OpenInfra Day France where open-source experts and enthusiasts will gather to discuss OpenStack, Kubernetes, and the most relevant infrastructure technologies in the ecosystem.
 
-[Registration](https://oideurope2024.openinfra.dev/#registration=1) and [the CFP](https://openinfrafoundation.formstack.com/forms/2024_openinfra_days_france_cfp) are now open! 
-
-Sponsorship opportunities are coming soon...
+**[CFP](https://openinfrafoundation.formstack.com/forms/2024_openinfra_days_france_cfp) | [Registration](https://oideurope2024.openinfra.dev/#registration=1) | Sponsorship opportunities are coming soon**
 
 ### Pre-Event Timeline
 
@@ -17,8 +17,6 @@ Sponsorship opportunities are coming soon...
 
 ### Regsitration Prices
 
-21 March - 19 April: Early Bird Price 50€
-
-19 April - 21 May: Normal Price 70€
-
-May 22: Day-of price 100€
+* 21 March - 19 April: Early Bird Price 50€
+* 19 April - 21 May: Normal Price 70€
+* May 22: Day-of price 100€
