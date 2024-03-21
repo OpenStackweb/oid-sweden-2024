@@ -15,7 +15,7 @@ On 22 May 2024, we will gather in Palaiseau, near Paris, France for OpenInfr
 * 15 April: The schedule is published
 * 19 April: Registration prices increase to  70€
 
-### Regsitration Prices
+### Registration Prices
 
 * Early bird: now - 19 April: 50€
 * Regular price: 20 April - 15 May: 70€
