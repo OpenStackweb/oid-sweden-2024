@@ -17,6 +17,8 @@ The auditorium where OpenInfra Days Germany sessions will be presented is not ba
 
 **[Register](https://oideurope2024.openinfra.dev/#registration=1) | [CFP](https://forms.gle/KJzFYxVSh7JadurSA) | [Sponsor](https://openinfra.dev/events/sponsorship/#Germany)**
 
+**[Regsiter for the SCS Summit](https://events.scs.community/scs-summit-2024/)**
+
 ### Pre-Event Timeline
 
 * 22 Feb: [CFP Opens](https://forms.gle/KJzFYxVSh7JadurSA) (00:00 GMT)[](https://forms.gle/KJzFYxVSh7JadurSA)
