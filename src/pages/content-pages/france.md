@@ -7,7 +7,7 @@ userRequirement: NONE
 
 On 22 May 2024, we will gather in Palaiseau, near Paris, France for OpenInfra Day France where open-source experts and enthusiasts will gather to discuss OpenStack, Kubernetes, and the most relevant infrastructure technologies in the ecosystem.
 
-**[CFP](https://openinfrafoundation.formstack.com/forms/2024_openinfra_days_france_cfp) | [Registration](https://oideurope2024.openinfra.dev/#registration=1) | Sponsorship opportunities are coming soon**
+**[CFP](https://openinfrafoundation.formstack.com/forms/2024_openinfra_days_france_cfp) | [Register Now](https://oideurope2024.openinfra.dev/#registration=1) | Sponsorship opportunities are coming soon**
 
 ### Pre-Event Timeline
 
