@@ -60,17 +60,17 @@
     "networks": [
       {
         "icon": "fa-facebook",
-        "link": "/footer-content/",
+        "link": "https://www.facebook.com/openinfradev",
         "display": true
       },
       {
         "icon": "fa-twitter",
-        "link": "/footer-content/",
+        "link": "https://twitter.com/openinfradev",
         "display": true
       },
       {
         "icon": "fa-linkedin",
-        "link": "/footer-content/",
+        "link": "https://www.linkedin.com/company/openinfra-foundation/mycompany/",
         "display": true
       }
     ]
@@ -82,7 +82,7 @@
     },
     {
       "title": "Help",
-      "link": "mailto:events@openinfra.dev"
+      "link": "events@openinfra.dev"
     }
   ]
 }
