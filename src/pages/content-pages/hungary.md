@@ -3,9 +3,9 @@ templateKey: content-page
 title: OpenInfra Day Hungary
 userRequirement: NONE
 ---
-## 4 June 2024 | Budapest, Hungary | [Telekom Headquarters,
-
-   Pusk·s conference room](https://wing.hu/en/project/telekom-hq)
+4 June 2024  
+Budapest, Hungary[](https://wing.hu/en/project/telekom-hq)  
+[Telekom Headquarters, Pusk·s conference room](https://wing.hu/en/project/telekom-hq)
 
 Organized by the [OpenStack Europe
 community](https://www.meetup.com/openstack-europe/) in Hungary, the
