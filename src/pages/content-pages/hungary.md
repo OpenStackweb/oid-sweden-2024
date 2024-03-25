@@ -5,7 +5,10 @@ userRequirement: NONE
 ---
 4 June 2024\
 Budapest, Hungary[](https://wing.hu/en/project/telekom-hq)\
-[Telekom Headquarters, Pusk·s conference room](https://wing.hu/en/project/telekom-hq)
+[Telekom Headquarters, Pusk·s conference room](https://wing.hu/en/project/telekom-hq)\
+[Register](https://oideurope2024.openinfra.dev/#registration=1) |
+[CFP](https://forms.gle/5uhidFatr2sLp6qNA) |
+[Sponsorship opportunities](mailto:HU_DT_TSI_CS_BO@t-systems.com)
 
 Organized by the [OpenStack Europe
 community](https://www.meetup.com/openstack-europe/) in Hungary, the
@@ -39,11 +42,9 @@ event on our websites, the websites of our cooperating partners and on
 social media channels in order to provide
 public information about this event. By registering you
 agree to this practice and acknowledge our [Code of
-Conduct](https://openinfra.dev/legal/code-of-conduct).
-
-[Register](https://oideurope2024.openinfra.dev/#registration=1) |
-[CFP](https://forms.gle/5uhidFatr2sLp6qNA) |
-[Sponsorship opportunities](mailto:HU_DT_TSI_CS_BO@t-systems.com)
+Conduct](https://openinfra.dev/legal/code-of-conduct).\
+\
+For any request regarding the described data processing please contact DT-ITS HU on this email: [HU_DT_TSI_CS_BO@t-systems.co](mailto:HU_DT_TSI_CS_BO@t-systems.com)
 
 ## Pre-Event Timeline
 
