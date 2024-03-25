@@ -35,6 +35,16 @@
       "pageRestriction": [
         "ANY"
       ],
+      "title": "Hungary",
+      "link": "/hungary",
+      "display": true
+    },
+    {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
       "title": "Sweden",
       "link": "https://www.oidsweden2024.se/",
       "display": true
