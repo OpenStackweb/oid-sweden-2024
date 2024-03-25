@@ -3,8 +3,8 @@ templateKey: content-page
 title: OpenInfra Day Hungary
 userRequirement: NONE
 ---
-4 June 2024  
-Budapest, Hungary[](https://wing.hu/en/project/telekom-hq)  
+4 June 2024\
+Budapest, Hungary[](https://wing.hu/en/project/telekom-hq)\
 [Telekom Headquarters, Pusk·s conference room](https://wing.hu/en/project/telekom-hq)
 
 Organized by the [OpenStack Europe
@@ -31,7 +31,7 @@ assistance getting to the auditorium, though, please contact us.
 ## Data privacy information, Recording, Compliance
 
 By registering I give my consent to the data controllers to collect, process and use my personal data for the purposes of processing my registration and sending a reminder letter.
-Data controllers: OpenInfra Foundation (your company data or a link to your Privacy Policy?) and Deutsche Telekom IT Solutions Hungary Kft(Cg.: 01-09-877517, H-1097 Budapest, Kˆnyves K·lm·n krt. 36.).
+Data controllers: [OpenInfra Foundation](https://openinfra.dev/privacy-policy) and Deutsche Telekom IT Solutions Hungary Kft(Cg.: 01-09-877517, H-1097 Budapest, Kˆnyves K·lm·n krt. 36.).
 
 During the event, photo and video recordings will be
 taken. These can be published in connection with reporting on the
