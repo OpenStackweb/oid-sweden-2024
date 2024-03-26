@@ -5,7 +5,7 @@ userRequirement: NONE
 ---
 4 June 2024\
 Budapest, Hungary[](https://wing.hu/en/project/telekom-hq)\
-[Telekom Headquarters, Pusk·s conference room](https://wing.hu/en/project/telekom-hq)\
+[Telekom Headquarters, Puskás conference room](https://wing.hu/en/project/telekom-hq)\
 [Register](https://oideurope2024.openinfra.dev/#registration=1) |
 [CFP](https://forms.gle/5uhidFatr2sLp6qNA) |
 [Sponsorship opportunities](mailto:HU_DT_TSI_CS_BO@t-systems.com)
@@ -23,7 +23,7 @@ shape the community!
 ## Free tech conference, professional networking
 
 On June 4, 2024 we will meet together with our community, sponsors,
-OpenInfra representatives, and interested parties in the Pusk·s
+OpenInfra representatives, and interested parties in the Puskás
 conference center of the the Telekom HQ building in Budapest, Hungary.
 
 Entry to OpenInfra Day Hungary is free! However, prior registration
@@ -34,7 +34,7 @@ assistance getting to the auditorium, though, please contact us.
 ## Data privacy information, Recording, Compliance
 
 By registering I give my consent to the data controllers to collect, process and use my personal data for the purposes of processing my registration and sending a reminder letter.
-Data controllers: [OpenInfra Foundation](https://openinfra.dev/privacy-policy) and Deutsche Telekom IT Solutions Hungary Kft(Cg.: 01-09-877517, H-1097 Budapest, Kˆnyves K·lm·n krt. 36.).
+Data controllers: [OpenInfra Foundation](https://openinfra.dev/privacy-policy) and Deutsche Telekom IT Solutions Hungary Kft (Cg.: 01-09-877517, H-1097 Budapest, Könyves Kálmán krt. 36).
 
 During the event, photo and video recordings will be
 taken. These can be published in connection with reporting on the
@@ -48,8 +48,8 @@ For any request regarding the described data processing please contact DT-ITS HU
 
 ## Pre-Event Timeline
 
-* 20.02.2024 Opening CfP (00:00 UTC)
-* 23.04.2024 Closing CfP (23:59 UTC)
+* 20.02.2024 Opening CFP (00:00 UTC)
+* 23.04.2024 Closing CFP (23:59 UTC)
 * 30.04.2024 Announcement of Lectures
 * 04.06.2024 OpenInfra Day Hungary 2024 (09:00 CET DST))
 
@@ -81,7 +81,7 @@ We look forward to a great time together in Budapest!
 
 The OpenInfra Day Hungary team
 
-Kamilla, Eszter, S·ra, Zolt·n, and Nils 
+Kamilla, Eszter, Sára, Zoltán and Nils 
 
 [Register](https://oideurope2024.openinfra.dev/#registration=1) |
 [CFP](https://forms.gle/LnF8BRnCdiJQmwrn6) |
