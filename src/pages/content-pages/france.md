@@ -9,7 +9,7 @@ On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day Fra
 
 **[CFP](https://openinfrafoundation.formstack.com/forms/2024_openinfra_days_france_cfp) | [Register Now](https://oideurope2024.openinfra.dev/#registration=1) | [Sponsor](https://openinfra.dev/events/sponsorship#France)**
 
-\*\*The CFP closes 12 April
+\*\* The CFP closes 12 April
 
 ### Pre-Event Timeline
 
@@ -17,13 +17,13 @@ On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day Fra
 * 15 April: The schedule is published
 * 19 April: Registration prices increase to 70€
 
-
-
 ### Registration Prices
 
 * Early bird: now - 19 April: 50€
 * Regular price: 20 April - 15 May: 70€
 * Late bird: 16 May - 22 May: 90€
+
+\*\* Note: accepted speakers will receive a 100% discount code
 
 ## Keynote speakers
 
@@ -35,8 +35,6 @@ On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day Fra
 * OpenInfra Day France 2024 will take place at EDF Lab Paris-Saclay, south of Paris.
 * The location is reachable via public transport, as well as via car.
 * Address is 7 boulevard Gaspard Monge, Palaiseau (pedestrian entry).
-
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
