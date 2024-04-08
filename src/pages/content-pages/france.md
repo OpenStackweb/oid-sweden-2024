@@ -3,6 +3,7 @@ templateKey: content-page
 title: OpenInfra Day France
 userRequirement: NONE
 ---
+
 ##### 22 May 2024 | Paris-Saclay, France | [EDF Lab Paris-Saclay](https://maps.app.goo.gl/sxxPmcTnYe4Dh3f18)
 
 On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day France where open-source experts and enthusiasts will gather to discuss OpenStack, Kubernetes, and the most relevant infrastructure technologies in the ecosystem.
@@ -27,8 +28,12 @@ On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day Fra
 
 ## Keynote speakers
 
-* Thierry Carrez, General Manager the OpenInfra Foundation
-* Speakers from the French Ministries
+<table><tr><td style="width:40%"><img src="blob:https://oideurope2024.openinfra.dev/c1ad662a-73e5-4dde-b7d4-e03375a9ad3d" ><br/>
+Laurent GAUTROT<br/>
+Responsable infrastructure cloud
+Ministère de la Transition Écologique</td><td  style="width:40%"><img src="blob:https://oideurope2024.openinfra.dev/dafc87bf-0691-499c-b603-3401652c632f"><br/>
+Thierry Carrez<br/>
+General Manager the OpenInfra Foundation</td><td style="width:20%"></td></tr></table>
 
 ## Venue
 
