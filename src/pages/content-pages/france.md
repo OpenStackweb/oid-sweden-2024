@@ -29,10 +29,10 @@ On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day Fra
 
 ## Keynote speakers
 
-<table><tr><td style="width:20%"><img src="https://oideurope2024.openinfra.dev/static/32d425604dd6a80394207b6ed14ab7ae/f93b5/laurent-300.jpg" ><br/>
+<table><tr><td style="width:20%"><img src="https://oideurope2024.openinfra.dev/static/32d425604dd6a80394207b6ed14ab7ae/f93b5/laurent-300.jpg"  width="300"><br/>
 <b>Laurent GAUTROT</b><br/>
 Responsable infrastructure cloud
-Ministère de la Transition Écologique</td><td  style="width:5%">&nbsp;</td><td  style="width:20%"><img src="https://oideurope2024.openinfra.dev/static/d4622ae6cf44bfe7b3a8feb897691978/f93b5/thierrycarrez-300.jpg"><br/>
+Ministère de la Transition Écologique</td><td  style="width:5%">&nbsp;</td><td  style="width:20%"><img src="https://oideurope2024.openinfra.dev/static/d4622ae6cf44bfe7b3a8feb897691978/f93b5/thierrycarrez-300.jpg" width="300"><br/>
 <b>Thierry Carrez</b><br/>
 General Manager the OpenInfra Foundation</td><td style="width:20%">&nbsp;</td><td  style="width:5%">&nbsp;</td><td style="width:20%">&nbsp;</td><td  style="width:5%">&nbsp;</td></tr></table>
 
