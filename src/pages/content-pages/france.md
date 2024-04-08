@@ -3,7 +3,6 @@ templateKey: content-page
 title: OpenInfra Day France
 userRequirement: NONE
 ---
-
 ##### 22 May 2024 | Paris-Saclay, France | [EDF Lab Paris-Saclay](https://maps.app.goo.gl/sxxPmcTnYe4Dh3f18)
 
 On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day France where open-source experts and enthusiasts will gather to discuss OpenStack, Kubernetes, and the most relevant infrastructure technologies in the ecosystem.
@@ -71,3 +70,7 @@ If you’re coming from far away and would rather spend a night close to the eve
 * Aparthotel Adagio Access Paris Massy Gare TGV
 
 As an alternative, Aparthotel Adagio Access Palaiseau Saclay, 6 boulevard Gaspard Monge, Palaiseau is within walking distance of EDF Lab Paris-Saclay.
+
+![](lg-003.jpg)
+
+![](thierrycarrez.jpg)
