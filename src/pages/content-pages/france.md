@@ -27,12 +27,12 @@ On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day Fra
 
 ## Keynote speakers
 
-<table><tr><td style="width:40%"><img src="blob:https://oideurope2024.openinfra.dev/c1ad662a-73e5-4dde-b7d4-e03375a9ad3d" ><br/>
-Laurent GAUTROT<br/>
+<table><tr><td style="width:20%"><img src="https://oideurope2024.openinfra.dev/static/b88bfda237f35765c5605e3bd757c3b5/be0f2/lg-003.jpg" ><br/>
+<b>Laurent GAUTROT</b><br/>
 Responsable infrastructure cloud
-Ministère de la Transition Écologique</td><td  style="width:40%"><img src="blob:https://oideurope2024.openinfra.dev/dafc87bf-0691-499c-b603-3401652c632f"><br/>
-Thierry Carrez<br/>
-General Manager the OpenInfra Foundation</td><td style="width:20%"></td></tr></table>
+Ministère de la Transition Écologique</td><td  style="width:5%">&nbsp;</td><td  style="width:20%"><img src="https://oideurope2024.openinfra.dev/static/bef6e4f3744dfa3634308f7af7236721/b4294/thierrycarrez.jpg"><br/>
+<b>Thierry Carrez</b><br/>
+General Manager the OpenInfra Foundation</td><td style="width:20%">&nbsp;</td><td  style="width:5%">&nbsp;</td><td style="width:20%">&nbsp;</td><td  style="width:5%">&nbsp;</td></tr></table>
 
 ## Venue
 
@@ -70,7 +70,3 @@ If you’re coming from far away and would rather spend a night close to the eve
 * Aparthotel Adagio Access Paris Massy Gare TGV
 
 As an alternative, Aparthotel Adagio Access Palaiseau Saclay, 6 boulevard Gaspard Monge, Palaiseau is within walking distance of EDF Lab Paris-Saclay.
-
-![](lg-003.jpg)
-
-![](thierrycarrez.jpg)
