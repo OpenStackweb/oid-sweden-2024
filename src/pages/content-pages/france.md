@@ -25,6 +25,8 @@ On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day Fra
 
 \*\* Note: accepted speakers will receive a 100% discount code
 
+\*\* Note: refunds and ticket transfers for OpenInfra Day France will be processed until 4 May 2024 at 23:59 PM CET.
+
 ## Keynote speakers
 
 <table><tr><td style="width:20%"><img src="https://oideurope2024.openinfra.dev/static/32d425604dd6a80394207b6ed14ab7ae/f93b5/laurent-300.jpg"  width="300"><br/>
