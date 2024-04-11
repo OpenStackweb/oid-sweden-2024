@@ -42,9 +42,17 @@ Ministère de la Transition Écologique</td><td  style="width:5%">&nbsp;</td><td
 
 <br/>
 <b>Thierry Carrez</b><br/>
-General Manager the OpenInfra Foundation</td><td  style="width:5%">&nbsp;</td><td style="width:20%"><br/>
+General Manager the OpenInfra Foundation</td><td  style="width:5%">&nbsp;</td><td style="width:20%">
+
+![](300blank.png)
+
+<br/>
 <b>Nina Landes</b><br/>
-Cheffe de projet interministériel Cloud DINUM (Direction interministérielle du numérique)</td><td  style="width:5%">&nbsp;</td><td  style="width:20%"><br/>
+Cheffe de projet interministériel Cloud DINUM (Direction interministérielle du numérique)</td><td  style="width:5%">&nbsp;</td><td  style="width:20%">
+
+![](300blank.png)
+
+<br/>
 <b>Renaud Chaillat</b><br/>
 Directeur du projet Nubo DGFIP</td></tr></table>
 
