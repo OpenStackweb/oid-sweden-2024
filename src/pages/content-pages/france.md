@@ -29,32 +29,25 @@ On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day Fra
 
 ## Keynote speakers
 
-<table><tr><td style="width:20%">
+<table><tr><td style="width:20%"><b>Laurent GAUTROT</b><br/>Responsable infrastructure cloud Ministère de la Transition Écologique<br/>
 
 ![Laurent Gautrot](laurent-300.jpg)
 
-<br/>
-<b>Laurent GAUTROT</b><br/>
-Responsable infrastructure cloud
-Ministère de la Transition Écologique</td><td  style="width:5%">&nbsp;</td><td  style="width:20%">
+</td><td  style="width:5%">&nbsp;</td><td  style="width:20%"><b>Thierry Carrez</b><br/>General Manager the OpenInfra Foundation<br/>
 
 ![Thierry Carrez](thierrycarrez-300.jpg)
 
-<br/>
-<b>Thierry Carrez</b><br/>
-General Manager the OpenInfra Foundation</td><td  style="width:5%">&nbsp;</td><td style="width:20%">
+</td><td  style="width:5%">&nbsp;</td><td style="width:20%"><b>Nina Landes</b><br/>
+Cheffe de projet interministériel Cloud DINUM (Direction interministérielle du numérique)<br/>
 
 ![](300blank.png)
 
-<br/>
-<b>Nina Landes</b><br/>
-Cheffe de projet interministériel Cloud DINUM (Direction interministérielle du numérique)</td><td  style="width:5%">&nbsp;</td><td  style="width:20%">
+</td><td  style="width:5%">&nbsp;</td><td  style="width:20%"><b>Renaud Chaillat</b><br/>
+Directeur du projet Nubo DGFIP<br/>
 
 ![](300blank.png)
 
-<br/>
-<b>Renaud Chaillat</b><br/>
-Directeur du projet Nubo DGFIP</td></tr></table>
+</td></tr></table>
 
 ## Venue
 
