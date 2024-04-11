@@ -29,24 +29,24 @@ On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day Fra
 
 ## Keynote speakers
 
-<table><tr><td style="width:20%">
+<table><tr><td style="max-width:300px;">
 
 ![Laurent Gautrot](laurent-300.jpg)
 
-</td><td  style="width:5%">&nbsp;</td><td style="width:20%">
+</td><td  style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
 ![Thierry Carrez](thierrycarrez-300.jpg)
 
-</td><td  style="width:5%">&nbsp;</td><td style="width:20%">
+</td><td  style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
 ![](300blank.png)
 
-</td><td  style="width:5%">&nbsp;</td><td style="width:20%">
+</td><td  style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
 ![](300blank.png)
 
-</td></tr><tr><td style="width:20%"><b>Laurent GAUTROT</b><br/>Responsable infrastructure cloud Ministère de la Transition Écologique</td><td  style="width:5%">&nbsp;</td><td  style="width:20%"><b>Thierry Carrez</b><br/>General Manager the OpenInfra Foundation</td><td  style="width:5%">&nbsp;</td><td style="width:20%"><b>Nina Landes</b><br/>
-Cheffe de projet interministériel Cloud DINUM (Direction interministérielle du numérique)</td><td style="width:5%">&nbsp;</td><td  style="width:20%"><b>Renaud Chaillat</b><br/>
+</td></tr><tr><td style="max-width:300px;"><b>Laurent GAUTROT</b><br/>Responsable infrastructure cloud Ministère de la Transition Écologique</td><td style="max-width:300px;">&nbsp;</td><td style="max-width:300px;"><b>Thierry Carrez</b><br/>General Manager the OpenInfra Foundation</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;"><b>Nina Landes</b><br/>
+Cheffe de projet interministériel Cloud DINUM (Direction interministérielle du numérique)</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;"><b>Renaud Chaillat</b><br/>
 Directeur du projet Nubo DGFIP</td></tr></table>
 
 ## Venue
