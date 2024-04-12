@@ -31,11 +31,11 @@ On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day Fra
 
 <table><tr><td style="max-width:300px;">
 
-![Laurent Gautrot](laurent-300.jpg)
+![Laurent Gautrot](laurentgautrot-300w.jpg)
 
 </td><td  style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
-![Thierry Carrez](thierrycarrez-300.jpg)
+![Thierry Carrez](thierrycarrez-300w.jpg)
 
 </td><td  style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
