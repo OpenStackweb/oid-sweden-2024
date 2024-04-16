@@ -3,7 +3,7 @@ templateKey: content-page
 title: OpenInfra Day Hungary
 userRequirement: NONE
 ---
-4 June 2024\
+3 June 2024\
 Budapest, Hungary[](https://wing.hu/en/project/telekom-hq)\
 [Telekom Headquarters, Puskás conference room](https://wing.hu/en/project/telekom-hq)\
 [Register](https://oideurope2024.openinfra.dev/#registration=1) |
@@ -22,7 +22,7 @@ shape the community!
 
 ## Free tech conference, professional networking
 
-On June 4, 2024 we will meet together with our community, sponsors,
+On June 3, 2024 we will meet together with our community, sponsors,
 OpenInfra representatives, and interested parties in the Puskás
 conference center of the the Telekom HQ building in Budapest, Hungary.
 
@@ -51,7 +51,7 @@ For any request regarding the described data processing please contact DT-ITS HU
 * 20.02.2024 Opening CFP (00:00 UTC)
 * 23.04.2024 Closing CFP (23:59 UTC)
 * 30.04.2024 Announcement of Lectures
-* 04.06.2024 OpenInfra Day Hungary 2024 (09:00 CET DST))
+* 03.06.2024 OpenInfra Day Hungary 2024 (09:00 CET DST))
 
 ## Event Program
 
