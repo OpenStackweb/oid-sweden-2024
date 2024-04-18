@@ -15,15 +15,9 @@ Entry to OpenInfra Day Germany is free! [Join us](https://oideurope2024.openinfr
 
 The auditorium where OpenInfra Days Germany sessions will be presented is not barrier-free (no elevator, only stairways). If you need assistance getting to the auditorium (without an elevator), please [contact us](mailto:events@openinfra.dev).
 
-**[Register](https://oideurope2024.openinfra.dev/#registration=1) | [CFP](https://forms.gle/KJzFYxVSh7JadurSA) | [Sponsor](https://openinfra.dev/events/sponsorship/#Germany)**
+**The CFP has closed | [Register](https://oideurope2024.openinfra.dev/#registration=1) | [Sponsor](https://openinfra.dev/events/sponsorship/#Germany)**
 
 **[Regsiter for the SCS Summit](https://events.scs.community/scs-summit-2024/)**
-
-### Pre-Event Timeline
-
-* 22 Feb: [CFP Opens](https://forms.gle/KJzFYxVSh7JadurSA) (00:00 GMT)[](https://forms.gle/KJzFYxVSh7JadurSA)
-* 28 Mar: CFP closes (23:59 GMT)
-* 08 Apr: Announcement of selected presentations
 
 ### Event Program
 
@@ -37,4 +31,4 @@ We look forward to a great time together in Berlin!
 
 The OpenInfra Day Germany team
 
-**[Register](https://oideurope2024.openinfra.dev/#registration=1) | [CFP](https://forms.gle/KJzFYxVSh7JadurSA) | [Sponsor](https://openinfra.dev/events/sponsorship/#Germany)**
+**The CFP has closed | [Register](https://oideurope2024.openinfra.dev/#registration=1) | [Sponsor](https://openinfra.dev/events/sponsorship/#Germany)**
