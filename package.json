@@ -1,8 +1,8 @@
 {
-  "name": "fnevent-tier1-default-theme",
+  "name": "oid-sweden-2024",
   "version": "1.0.0",
   "private": true,
-  "description": "Tier 1 Default fnEvent theme",
+  "description": "oid-sweden-2024",
   "author": "FNTech",
   "keywords": [
     "gatsby"
@@ -16,7 +16,7 @@
     "clean": "find . -name \"node_modules\" -type d -prune -exec rm -rf '{}' + && yarn && yarn gatsby-clean"
   },
   "dependencies": {
-    "@openeventkit/event-site": "^2.0.93",
+    "@openeventkit/event-site": "2.0.103",
     "gatsby": "5.8.1"
   }
 }
