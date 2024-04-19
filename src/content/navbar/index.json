@@ -15,6 +15,25 @@
       "pageRestriction": [
         "ANY"
       ],
+      "title": "Schedule",
+      "link": "https://oideurope2024.openinfra.dev/a/schedule#",
+      "display": true
+    },
+    {
+      "title": "Sponsor ",
+      "link": "https://openinfra.dev/events/sponsorship",
+      "display": true,
+      "requiresAuth": false,
+      "pageRestriction": [
+        "ANY"
+      ]
+    },
+    {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
       "title": "France",
       "link": "/france",
       "display": true
@@ -79,15 +98,6 @@
       ]
     },
     {
-      "title": "Sponsors ",
-      "link": "https://openinfrafoundation.formstack.com/forms/2024_openinfra_events_updates",
-      "display": true,
-      "requiresAuth": false,
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
       "title": "Code of Conduct",
       "link": "https://openinfra.dev/legal/code-of-conduct/events",
       "display": false,
@@ -122,16 +132,6 @@
       "pageRestriction": [
         "ANY"
       ]
-    },
-    {
-      "requiresAuth": false,
-      "showOnlyAtShowTime": false,
-      "pageRestriction": [
-        "ANY"
-      ],
-      "title": "Schedule",
-      "link": "https://oideurope2024.openinfra.dev/a/schedule#",
-      "display": true
     }
   ]
 }
