@@ -122,6 +122,16 @@
       "pageRestriction": [
         "ANY"
       ]
+    },
+    {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
+      "title": "Schedule",
+      "link": "https://oideurope2024.openinfra.dev/a/schedule#",
+      "display": true
     }
   ]
 }
