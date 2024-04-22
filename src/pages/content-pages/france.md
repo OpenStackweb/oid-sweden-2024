@@ -41,6 +41,24 @@ On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day Fra
 Cheffe de projet interministériel Cloud DINUM (Direction interministérielle du numérique)</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;"><b>Renaud Chaillat</b><br/>
 Directeur du projet Nubo DGFIP</td></tr></table>
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Thank You to Our Sponsors
+
+### Media Sponsors
+
+<div style="width:100%;align:center;"><table><tr><td style="max-width:200px;">
+
+![Kube Careers](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/kube-careers-sm.png)
+
+</td><td style="width:5%">&nbsp;</td><td style="max-width:200px;">
+
+![](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/kubeevents-sm.png)
+
+</td></tr></table></div>
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 ## Venue
 
 * OpenInfra Day France 2024 will take place at EDF Lab Paris-Saclay, south of Paris.
