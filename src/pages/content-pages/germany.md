@@ -19,7 +19,7 @@ The auditorium where OpenInfra Days Germany sessions will be presented is not ba
 
 ### Event Program
 
-*Coming soon!*
+***See the schedule [here](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=467)!***
 
 OpenInfra Day Germany is organized in collaboration with the [OpenInfra Foundation](https://openinfra.dev) and is part of OpenInfra Days Europe, a series of community-run OpenInfra Days and Meetups in May and June 2024.
 
@@ -29,4 +29,4 @@ We look forward to a great time together in Berlin!
 
 The OpenInfra Day Germany team
 
-**The CFP has closed | [Register](https://oideurope2024.openinfra.dev/#registration=1) | [Sponsor](https://openinfra.dev/events/sponsorship/#Germany)**
+**[Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=467) | [Register](https://oideurope2024.openinfra.dev/#registration=1) | [Sponsor](https://openinfra.dev/events/sponsorship/#Germany)**
