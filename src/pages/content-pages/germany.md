@@ -55,9 +55,7 @@ The auditorium where OpenInfra Days Germany sessions will be presented is not ba
 ![dNation](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/dnation-lg.png)
 
 
-</td></tr>
-
-<tr><td style="max-width:300px;">
+</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
 ![ScaleUp Technologies](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/scaleuptechnologies-lg.png)
 
