@@ -69,7 +69,15 @@ The auditorium where OpenInfra Days Germany sessions will be presented is not ba
 
 </td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
+![](300blank.png)
+
+</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
+
 ![Sovereign Cloud Stack](scs-lg.png)
+
+</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
+
+![](300blank.png)
 
 </td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
