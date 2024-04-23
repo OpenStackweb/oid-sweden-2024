@@ -25,14 +25,11 @@ The auditorium where OpenInfra Days Germany sessions will be presented is not ba
 
 <div style="width:100%;align:center;"><table><tr><td style="max-width:300px;">&nbsp;</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
-
 ![Storware](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/storware-lg.png)
-
 
 </td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
 ![SysEleven](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/syseleven-lg.png)
-
 
 </td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
@@ -54,7 +51,6 @@ The auditorium where OpenInfra Days Germany sessions will be presented is not ba
 
 ![dNation](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/dnation-lg.png)
 
-
 </td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
 ![ScaleUp Technologies](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/scaleuptechnologies-lg.png)
@@ -64,6 +60,14 @@ The auditorium where OpenInfra Days Germany sessions will be presented is not ba
 ![Vexxhost](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/vexxhost-lg.png)
 
 </td></tr></table></div>
+
+### Event Partner
+
+<div style="width:100%;align:center;"><table><tr><td style="max-width:300px;">
+
+![Sovereign Cloud Stack](scs-lg.png)
+
+</td><td width="80%"></td></tr></table>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
