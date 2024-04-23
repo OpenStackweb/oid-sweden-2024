@@ -63,7 +63,7 @@ The auditorium where OpenInfra Days Germany sessions will be presented is not ba
 
 ![Vexxhost](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/vexxhost-lg.png)
 
-</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">&nbsp;</td></tr></table></div>
+</td></tr></table></div>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
