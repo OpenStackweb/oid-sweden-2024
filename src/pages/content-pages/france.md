@@ -11,8 +11,8 @@ On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day Fra
 
 ### Registration Prices
 
-* Early bird: now - 26 April: 50€
-* Regular price: 27 April - 15 May: 70€
+* Early bird: now - 30 April: 50€
+* Regular price: 1 May - 15 May: 70€
 * Late bird: 16 May - 22 May: 90€
 
 \*\* Note: accepted speakers will receive a 100% discount code
