@@ -45,13 +45,27 @@ Directeur du projet Nubo DGFIP</td></tr></table>
 
 ## Thank You to Our Sponsors
 
+### Platinum Sponsors
+
+<div style="width:100%;align:center;"><table><tr><td style="max-width:200px;">&nbsp;</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
+
+
+![](exaion-lg.png)
+
+</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">&nbsp;
+</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">&nbsp;</td></tr></table></div>
+
 ### Gold Sponsors
 
 <div style="width:100%;align:center;"><table><tr><td style="max-width:200px;">&nbsp;</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
 ![Worteks](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/workteks-lg.png)
 
-</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">&nbsp;
+</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
+
+![](mirantis-lg.png)
+
+
 </td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">&nbsp;</td></tr></table></div>
 
 ### Media Sponsors
