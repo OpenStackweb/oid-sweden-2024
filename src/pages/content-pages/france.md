@@ -19,6 +19,8 @@ On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day Fra
 
 \*\* Note: refunds and ticket transfers for OpenInfra Day France will be processed until 4 May 2024 at 23:59 PM CET.
 
+\*\* Note: for reciepts of purchase please contact [admin@openstack.fr](mailto:admin@openstack.fr)
+
 ## Keynote speakers
 
 <table><tr><td style="max-width:300px;">
@@ -49,7 +51,6 @@ Directeur du projet Nubo DGFIP</td></tr></table>
 
 <div style="width:100%;align:center;"><table><tr><td style="max-width:300px;">&nbsp;</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
-
 ![](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/exaion-lg.png)
 
 </td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">&nbsp;
@@ -64,7 +65,6 @@ Directeur du projet Nubo DGFIP</td></tr></table>
 </td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
 ![](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/mirantis-sm.png)
-
 
 </td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">&nbsp;</td></tr></table></div>
 
