@@ -61,7 +61,7 @@ The auditorium where OpenInfra Days Germany sessions will be presented is not ba
 
 </td></tr></table></div>
 
-### Event Partner
+### Event Partners & Local Organizers
 
 <div style="width:100%;align:center;"><table><tr><td style="max-width:300px;">
 
@@ -69,7 +69,7 @@ The auditorium where OpenInfra Days Germany sessions will be presented is not ba
 
 </td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
-![](300blank.png)
+![Guug](guug-lg.png)
 
 </td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
