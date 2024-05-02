@@ -7,7 +7,7 @@ userRequirement: NONE
 Budapest, Hungary[](https://wing.hu/en/project/telekom-hq)\
 [Telekom Headquarters, Puskás conference room](https://wing.hu/en/project/telekom-hq)\
 [Register](https://oideurope2024.openinfra.dev/#registration=1) |
-[CFP](https://forms.gle/5uhidFatr2sLp6qNA) |
+[Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=472) |
 [Sponsorship opportunities](mailto:HU_DT_TSI_CS_BO@t-systems.com)
 
 Organized by the [OpenStack Europe
@@ -46,16 +46,9 @@ Conduct](https://openinfra.dev/legal/code-of-conduct).\
 \
 For any request regarding the described data processing please contact DT-ITS HU on this email: [HU_DT_TSI_CS_BO@t-systems.co](mailto:HU_DT_TSI_CS_BO@t-systems.com)
 
-## Pre-Event Timeline
-
-* 20.02.2024 Opening CFP (00:00 UTC)
-* 23.04.2024 Closing CFP (23:59 UTC)
-* 30.04.2024 Announcement of Lectures
-* 03.06.2024 OpenInfra Day Hungary 2024 (09:00 CET DST))
-
 ## Event Program
 
-Coming soon!
+[See the Schedule!](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=472)
 
 We'll let you know about our agenda and the presented talks and other
 events. Stay tuned!
@@ -84,5 +77,5 @@ The OpenInfra Day Hungary team
 Kamilla, Eszter, Sára, Zoltán and Nils 
 
 [Register](https://oideurope2024.openinfra.dev/#registration=1) |
-[CFP](https://forms.gle/LnF8BRnCdiJQmwrn6) |
+[Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=472) |
 [Sponsorship opportunities](mailto:HU_DT_TSI_CS_BO@t-systems.com)
