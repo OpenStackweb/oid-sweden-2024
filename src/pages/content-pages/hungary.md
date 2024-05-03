@@ -7,8 +7,7 @@ userRequirement: NONE
 Budapest, Hungary[](https://wing.hu/en/project/telekom-hq)\
 [Telekom Headquarters, Puskás conference room](https://wing.hu/en/project/telekom-hq)\
 [Register](https://oideurope2024.openinfra.dev/#registration=1) |
-[Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=472) |
-[Sponsorship opportunities](mailto:HU_DT_TSI_CS_BO@t-systems.com)
+[Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=472) 
 
 Organized by the [OpenStack Europe
 community](https://www.meetup.com/openstack-europe/) in Hungary, the
@@ -50,9 +49,6 @@ For any request regarding the described data processing please contact DT-ITS HU
 
 [See the Schedule!](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=472)
 
-We'll let you know about our agenda and the presented talks and other
-events. Stay tuned!
-
 OpenInfra Day Hungary is organized in collaboration with the OpenInfra
 Foundation and is part of OpenInfra Days Europe, a series of
 community-run OpenInfra Days and Meetups in May and June 2024.
@@ -77,5 +73,4 @@ The OpenInfra Day Hungary team
 Kamilla, Eszter, Sára, Zoltán and Nils 
 
 [Register](https://oideurope2024.openinfra.dev/#registration=1) |
-[Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=472) |
-[Sponsorship opportunities](mailto:HU_DT_TSI_CS_BO@t-systems.com)
+[Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=472)
