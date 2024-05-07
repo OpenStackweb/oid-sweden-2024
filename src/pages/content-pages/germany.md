@@ -29,7 +29,7 @@ The auditorium where OpenInfra Days Germany sessions will be presented is not ba
 
 </td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
-![T Systems](t_logo_rgb_p-copy.png)
+![T Systems](t_logo_rgb_p.png)
 
 </td></tr></table></div>
 
