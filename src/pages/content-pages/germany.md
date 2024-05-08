@@ -5,7 +5,7 @@ userRequirement: NONE
 ---
 ##### 15 May 2024 | Berlin, Germany | [Villa Elisabeth](https://maps.app.goo.gl/utJZLoyNSDrcskDR7)
 
-**[Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=467) | [Sponsor](https://openinfra.dev/events/sponsorship/#Germany) | [Register](https://oideurope2024.openinfra.dev/#registration=1) | [Regsiter for the SCS Summit](https://events.scs.community/scs-summit-2024/)**
+**[Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=467) | [Sponsor](https://openinfra.dev/events/sponsorship/#Germany) | [](https://oideurope2024.openinfra.dev/#registration=1)REGISTRATION CLOSED | [Regsiter for the SCS Summit](https://events.scs.community/scs-summit-2024/)**
 
 After a long time, we can now invite you (again) to OpenInfra Day Germany (formerly OpenStack Day)!
 
