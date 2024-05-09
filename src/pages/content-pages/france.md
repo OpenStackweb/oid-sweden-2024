@@ -101,7 +101,7 @@ If traveling by air, Orly airport is the closest, but both Orly (ORY) and Charle
 * From Paris: take RER B or RER C to Massy-Palaiseau station.
 * From Massy-Palaiseau RER station: take bus 91.06 (or 91.10) to “Palaiseau - Campus” stop.
 
-(A dedicated bus shuttle may be organized between Massy-Palaiseau RER station and EDF Lab Paris-Saclay - to be confirmed.)
+~~(A dedicated bus shuttle may be organized between Massy-Palaiseau RER station and EDF Lab Paris-Saclay - to be confirmed.)~~
 
 ### Coming by car
 
