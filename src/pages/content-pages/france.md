@@ -19,7 +19,7 @@ On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day Fra
 
 \*\* Note: refunds and ticket transfers for OpenInfra Day France will be processed until 4 May 2024 at 23:59 PM CET.
 
-\*\* Note: for reciepts of purchase please contact [admin@openstack.fr](mailto:admin@openstack.fr)
+\*\* Note: for receipts of purchase please contact [admin@openstack.fr](mailto:admin@openstack.fr)
 
 ## Keynote speakers
 
@@ -94,12 +94,17 @@ Directeur du projet Nubo DGFIP</td></tr></table>
 
 The closest TGV (high-speed train) station is Massy-Palaiseau TGV. Direct trains from the biggest French cities are available. From Massy-Palaiseau station, see below.
 
-If traveling by air, Orly airport is the closest, but both Orly (ORY) and Charles-de-Gaulle (CDG) are on the RER B line (see below).
+If traveling by air, Orly airport is the closest, but both Orly (ORY) and Charles-de-Gaulle (CDG) are on the RER B line (see below). Bus 91-10 (see below) connects Orly airport with EDF Lab directly.
 
 ### Coming by public transport
 
 * From Paris: take RER B or RER C to Massy-Palaiseau station.
-* From Massy-Palaiseau RER station: take bus 91.06 (or 91.10) to “Palaiseau - Campus” stop.
+* From Massy-Palaiseau RER station: take bus **91-06** (or **91-10**) to “Palaiseau - Campus” stop.
+
+**Bus Timetables:**
+
+* [91-06](https://prismic-io.s3.amazonaws.com/portail-idfm-operateurs/fba3706b-f964-4b34-8375-a82f39181b93_Fiche+WEB+ligne+9106+Hiver+2023-2024_+%C3%A0+partir+du+lundi+26+f%C3%A9vrier+2024.pdf): Massy-Palaiseau - EDF Lab (peak hours frequency: 4 to 10 minutes) [](**<https://ilico.iledefrance-mobilites.fr/uploads/fiches/658c55ca5d0a6_depliant_9110.pdf>**)
+* [91-10](https://ilico.iledefrance-mobilites.fr/uploads/fiches/658c55ca5d0a6_depliant_9110.pdf): (Orly airport) - Massy Palaiseau - EDF Lab (peak hours frequency: 30 minutes)
 
 ~~(A dedicated bus shuttle may be organized between Massy-Palaiseau RER station and EDF Lab Paris-Saclay - to be confirmed.)~~
 
@@ -107,7 +112,7 @@ If traveling by air, Orly airport is the closest, but both Orly (ORY) and Charle
 
 EDF Lab Paris-Saclay is located close to the N118 road (exit 9).
 
-Car park address is 2 rue Jean Pacilly, Palaiseau.
+Public car park “Monge” address is 2 rue Jean Pacilly, Palaiseau. Details, including pricing details, are available at <https://www.effia.com/parking/parking-palaiseau-monge-effia>
 
 ### Hotels
 
