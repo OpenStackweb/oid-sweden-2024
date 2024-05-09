@@ -15,6 +15,8 @@ On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day Fra
 * Regular price: 1 May - 15 May: 70€
 * Late bird: 16 May - 22 May: 90€
 
+Students are eligible for a special ticket price of 30€. Please send a proof, like a student ID, to [admin@openstack.fr](mailto:admin@openstack.fr) in order to receive your discount.
+
 \*\* Note: accepted speakers will receive a 100% discount code
 
 \*\* Note: refunds and ticket transfers for OpenInfra Day France will be processed until 4 May 2024 at 23:59 PM CET.
