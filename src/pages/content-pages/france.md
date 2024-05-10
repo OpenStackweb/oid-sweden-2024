@@ -27,15 +27,15 @@ Students are eligible for a special ticket price of 30€. Please send a proof, 
 
 <table><tr><td style="max-width:300px;">
 
-![Laurent Gautrot](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/laurent.png)
+![Laurent Gautrot](laurent.png)
 
 </td><td  style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
-![Thierry Carrez](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/thierry-carrez.png)
+![Thierry Carrez](thierry-carrez.png)
 
 </td><td  style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
-![](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/nina-landez.png)
+![](nina-landez.png)
 
 </td><td  style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
