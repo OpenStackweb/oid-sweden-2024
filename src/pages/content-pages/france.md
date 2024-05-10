@@ -68,7 +68,23 @@ Directeur du projet Nubo DGFIP</td></tr></table>
 
 ![](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/mirantis-sm.png)
 
-</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">&nbsp;</td></tr></table></div>
+</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
+
+![Vexxhost](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/vexxhost-lg2.png)
+
+</td></tr></table></div>
+
+### Silver Sponsors
+
+<div style="width:100%;align:center;"><table><tr><td style="max-width:200px;">&nbsp;</td><td style="width:5%">&nbsp;</td><td style="max-width:200px;">
+
+![Worteks](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/bitconsulting-lg.png)
+
+</td><td style="width:5%">&nbsp;</td><td style="max-width:200px;">
+
+![](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/stackhpc-lg.png)
+
+</td><td style="width:5%">&nbsp;</td><td style="max-width:200px;"></td></tr></table></div>
 
 ### Media Sponsors
 
