@@ -45,7 +45,7 @@ The auditorium where OpenInfra Days Germany sessions will be presented is not ba
 
 </td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
-![dNation](dnation_logo_making_cloud_easy_only-removebg-preview.png)
+![dNation](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/dNAtion-lgB.png)
 
 </td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
