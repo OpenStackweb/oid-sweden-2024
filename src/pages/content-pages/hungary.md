@@ -5,9 +5,7 @@ userRequirement: NONE
 ---
 3 June 2024\
 Budapest, Hungary[](https://wing.hu/en/project/telekom-hq)\
-[Telekom Headquarters, Puskás conference room](https://wing.hu/en/project/telekom-hq)\
-[Register](https://oideurope2024.openinfra.dev/#registration=1) |
-[Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=472) 
+[Telekom Headquarters, Puskás conference room](https://maps.app.goo.gl/gF5tefAANj1q3zrh8)[](https://oideurope2024.openinfra.dev/#registration=1) | [](https://oideurope2024.openinfra.dev/#registration=1)[Register for **FREE**](https://oideurope2024.openinfra.dev/#registration=1) | [Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=472) 
 
 Organized by the [OpenStack Europe
 community](https://www.meetup.com/openstack-europe/) in Hungary, the
@@ -25,7 +23,7 @@ On June 3, 2024 we will meet together with our community, sponsors,
 OpenInfra representatives, and interested parties in the Puskás
 conference center of the the Telekom HQ building in Budapest, Hungary.
 
-Entry to OpenInfra Day Hungary is free! However, prior registration
+Entry to OpenInfra Day Hungary is **FREE**! However, prior registration
 for a free ticket is mandatory and seats are limited. The access to the
 auditorium of the OpenInfra Day Hungary is barrier-free. If you need
 assistance getting to the auditorium, though, please contact us.
@@ -72,5 +70,5 @@ The OpenInfra Day Hungary team
 
 Kamilla, Eszter, Sára, Zoltán and Nils 
 
-[Register](https://oideurope2024.openinfra.dev/#registration=1) |
+[Register for FREE](https://oideurope2024.openinfra.dev/#registration=1) |
 [Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=472)
