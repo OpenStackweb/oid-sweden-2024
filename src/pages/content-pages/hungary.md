@@ -7,7 +7,7 @@ userRequirement: NONE
 Budapest, Hungary[](https://wing.hu/en/project/telekom-hq)\
 [Telekom Headquarters, Puskás conference room](https://maps.app.goo.gl/gF5tefAANj1q3zrh8)[](https://oideurope2024.openinfra.dev/#registration=1) 
 
-[](https://oideurope2024.openinfra.dev/#registration=1)[Register for **FREE**](https://oideurope2024.openinfra.dev/#registration=1) | [Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=472) 
+## [](https://oideurope2024.openinfra.dev/#registration=1)[Register for FREE](https://oideurope2024.openinfra.dev/#registration=1) | [Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=472) 
 
 Organized by the [OpenStack Europe
 community](https://www.meetup.com/openstack-europe/) in Hungary, the
