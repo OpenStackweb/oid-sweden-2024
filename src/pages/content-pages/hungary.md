@@ -30,6 +30,14 @@ for a free ticket is mandatory and seats are limited. The access to the
 auditorium of the OpenInfra Day Hungary is barrier-free. If you need
 assistance getting to the auditorium, though, please contact us.
 
+## Event Program
+
+[See the Schedule!](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=472)
+
+OpenInfra Day Hungary is organized in collaboration with the OpenInfra
+Foundation and is part of OpenInfra Days Europe, a series of
+community-run OpenInfra Days and Meetups in May and June 2024.
+
 ## Data privacy information, Recording, Compliance
 
 By registering I give my consent to the data controllers to collect, process and use my personal data for the purposes of processing my registration and sending a reminder letter.
@@ -44,14 +52,6 @@ agree to this practice and acknowledge our [Code of
 Conduct](https://openinfra.dev/legal/code-of-conduct).\
 \
 For any request regarding the described data processing please contact DT-ITS HU on this email: [HU_DT_TSI_CS_BO@t-systems.co](mailto:HU_DT_TSI_CS_BO@t-systems.com)
-
-## Event Program
-
-[See the Schedule!](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=472)
-
-OpenInfra Day Hungary is organized in collaboration with the OpenInfra
-Foundation and is part of OpenInfra Days Europe, a series of
-community-run OpenInfra Days and Meetups in May and June 2024.
 
 ## Sponsorship Opportunities
 
