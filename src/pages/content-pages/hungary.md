@@ -49,24 +49,11 @@ event on our websites, the websites of our cooperating partners and on
 social media channels in order to provide
 public information about this event. By registering you
 agree to this practice and acknowledge our [Code of
-Conduct](https://openinfra.dev/legal/code-of-conduct).\
+Conduct](https://openinfra.dev/legal/code-of-conduct). Please note, that we will stream the keynote & technical presentations on Webex Webinar, but not the panel discussion. \[During the event photo and video….…]\
 \
 For any request regarding the described data processing please contact DT-ITS HU on this email: [HU_DT_TSI_CS_BO@t-systems.co](mailto:HU_DT_TSI_CS_BO@t-systems.com)
 
-## Sponsorship Opportunities
-
-The event is not-for-profit, organized by community volunteers,
-supported by the OpenInfra Foundation and paid by our
-sponsors. Together we hope to have the opportunity to meet, learn and
-discuss a common future towards an openly developed infrastructure.
-
-This event is entirely organized and operated by volunteers who are
-passionate about bringing our community together. Events like this
-come with expenses that need to be covered, such as venue rental,
-catering, and audio-visual equipment. Drop us a note if you're
-interested in supporting us as a sponsor.
-
-We look forward to a great time together in Budapest!
+#### We look forward to a great time together in Budapest!
 
 The OpenInfra Day Hungary team
 
