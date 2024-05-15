@@ -55,7 +55,11 @@ Directeur du projet Nubo DGFIP</td></tr></table>
 ![](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/exaion-lg.png)
 
 </td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">&nbsp;
-</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">&nbsp;</td></tr></table></div>
+</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
+
+![](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/companies/main_logo/RedHat-lg.png)
+
+</td></tr></table></div>
 
 ### Gold Sponsors
 
