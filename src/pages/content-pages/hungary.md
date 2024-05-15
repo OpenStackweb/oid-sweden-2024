@@ -34,7 +34,9 @@ assistance getting to the auditorium, though, please contact us.
 
 ## Event Program
 
-#### [See the Schedule!](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=472)
+[View the interactive Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=472)
+
+![](agenda_2.png)
 
 OpenInfra Day Hungary is organized in collaboration with the OpenInfra
 Foundation and is part of OpenInfra Days Europe, a series of
