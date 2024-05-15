@@ -42,6 +42,18 @@ OpenInfra Day Hungary is organized in collaboration with the OpenInfra
 Foundation and is part of OpenInfra Days Europe, a series of
 community-run OpenInfra Days and Meetups in May and June 2024.
 
+## Thank You to our Local Organizers
+
+<table><tr><td style="max-width:300px;">
+
+![](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/tsystems-lg2.png)
+
+</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
+
+![](openstackeu.png)
+
+</td></tr></table>
+
 ## Data privacy information, Recording, Compliance
 
 By registering I give my consent to the data controllers to collect, process and use my personal data for the purposes of processing my registration and sending a reminder letter.
