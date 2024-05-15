@@ -50,7 +50,7 @@ community-run OpenInfra Days and Meetups in May and June 2024.
 
 </td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
-![](openstackeu.png)
+![](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/OpenStackEU.png)
 
 </td></tr></table>
 
