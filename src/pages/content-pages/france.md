@@ -26,9 +26,9 @@ Students are eligible for a special ticket price of 30€. Please send a proof, 
 
 ## Event Program
 
-**View the event program [here](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=468).**
+#### **View the event program [here](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=468).**
 
-**Language**
+### **Language**
 
 Keynotes and most sessions will be in French, but a track will be dedicated to talks in English.
 
