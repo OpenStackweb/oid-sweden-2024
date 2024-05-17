@@ -28,15 +28,6 @@ Students are eligible for a special ticket price of 30€. Please send a proof, 
 
 #### **View the event program [here](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=468).**
 
-### **Language**
-
-Keynotes and most sessions will be in French, but a track will be dedicated to talks in English.
-
-Live translation will be provided for:
-
-* Keynotes into English
-* English sessions into French
-
 ### Keynote speakers
 
 <table><tr><td style="max-width:300px;">
@@ -58,6 +49,15 @@ Live translation will be provided for:
 </td></tr><tr><td style="max-width:300px;"><b>Laurent GAUTROT</b><br/>Responsable infrastructure cloud Ministère de la Transition Écologique</td><td style="max-width:300px;">&nbsp;</td><td style="max-width:300px;"><b>Thierry Carrez</b><br/>General Manager the OpenInfra Foundation</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;"><b>Nina Landes</b><br/>
 Cheffe de projet interministériel Cloud DINUM (Direction interministérielle du numérique)</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;"><b>Renaud Chaillat</b><br/>
 Directeur du projet Nubo DGFIP</td></tr></table>
+
+### **Language**
+
+Keynotes and most sessions will be in French, but a track will be dedicated to talks in English.
+
+Live translation will be provided for:
+
+* Keynotes into English
+* English sessions into French
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
