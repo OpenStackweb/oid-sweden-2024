@@ -11,11 +11,11 @@ After a long time, we can now invite you (again) to OpenInfra Day Germany (forme
 
 On May 15, 2024 we will meet together with our community, sponsors, OpenInfra representatives and interested parties in the Villa Elisabeth in Berlin.
 
-OpenInfra Day Germany is being planned in conjunction with the [Sovereign Cloud Stack Summit](https://scs.community/summit2024/)! The Sovereign Cloud Stack Summit will be hosted at the same venue the day prior on 14 May. Please note that registration for OpenInfra Day Germany and the Sovereign Cloud Stack Summit are separate. **You must register for each event separately**. 
+OpenInfra Day Germany is being planned in conjunction with the [Sovereign Cloud Stack Summit](https://scs.community/summit2024/)! The Sovereign Cloud Stack Summit will be hosted at the same venue the day prior on 14 May. Please note that registration for OpenInfra Day Germany and the Sovereign Cloud Stack Summit are separate. **You must register for each event separately**. 
 
 Entry to OpenInfra Day Germany is free! [Join us](https://oideurope2024.openinfra.dev/#registration=1) or [sponsor the event!](https://openinfra.dev/events/sponsorship/#Germany)
 
-The auditorium where OpenInfra Days Germany sessions will be presented is not barrier-free (no elevator, only stairways). If you need assistance getting to the auditorium (without an elevator), please [contact us](mailto:events@openinfra.dev).
+The auditorium where OpenInfra Days Germany sessions will be presented is not barrier-free (no elevator, only stairways). If you need assistance getting to the auditorium (without an elevator), please [contact us](mailto:events@openinfra.dev).
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -23,63 +23,51 @@ The auditorium where OpenInfra Days Germany sessions will be presented is not ba
 
 ### Gold Sponsors
 
-<div style="width:100%;align:center;"><table><tr><td style="max-width:300px;">&nbsp;</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
+<Grid minWidth={300} style={{ placeItems: "center" }}>
 
 ![SysEleven](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/syseleven-lg.png)
 
-</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
-
 ![T Systems](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/tsystems-lg2.png)
 
-</td></tr></table></div>
+</Grid>
 
 ### Silver Sponsors
 
-<div style="width:100%;align:center;"><table><tr><td style="max-width:300px;">
+<Grid
+  minWidth={150}
+  style={{
+    placeItems: "center",
+    paddingTop: "40px",
+    paddingBottom: "40px"
+  }}
+>
 
 ![B1 Systems](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/b1systems-lg.png)
 
-</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
-
 ![Cloud & Heat](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/cloudheat-lg.png)
-
-</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
 ![dNation](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/dNAtion-lgB.png)
 
-</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
-
 ![ScaleUp Technologies](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/scaleuptechnologies-lg.png)
-
-</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
 ![Vexxhost](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/vexxhost-lg.png)
 
-</td></tr></table></div>
+</Grid>
 
 ### Event Partners & Local Organizers
 
-<div style="width:100%;align:center;"><table><tr><td style="max-width:300px;">
-
-![](300blank.png)
-
-</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
+<Grid
+  style={{
+    paddingTop: "40px",
+    paddingBottom: "40px"
+  }}
+>
 
 ![Guug](guug-lg.png)
 
-</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
-
 ![Sovereign Cloud Stack](scs-lg.png)
 
-</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
-
-![](300blank.png)
-
-</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
-
-![](300blank.png)
-
-</td></tr></table>
+</Grid>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

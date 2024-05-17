@@ -5,7 +5,7 @@ userRequirement: NONE
 ---
 ##### 22 May 2024 | Paris-Saclay, France | [EDF Lab Paris-Saclay](https://maps.app.goo.gl/sxxPmcTnYe4Dh3f18)
 
-On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day France where open-source experts and enthusiasts will gather to discuss OpenStack, Kubernetes, and the most relevant infrastructure technologies in the ecosystem.
+On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day France where open-source experts and enthusiasts will gather to discuss OpenStack, Kubernetes, and the most relevant infrastructure technologies in the ecosystem.
 
 **[Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=468) | [Register Now](https://oideurope2024.openinfra.dev/#registration=1) | [Sponsor](https://openinfra.dev/events/sponsorship#France)**
 
@@ -14,7 +14,7 @@ On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day Fra
 * Early bird: now - 30 April: 50€
 * Regular price: 1 May - 22 May: 70€
 
-Students are eligible for a special ticket price of 30€. Please send a proof, like a student ID, to [admin@openstack.fr](mailto:admin@openstack.fr) in order to receive your discount.
+Students are eligible for a special ticket price of 30€. Please send a proof, like a student ID, to [admin@openstack.fr](mailto:admin@openstack.fr) in order to receive your discount.
 
 \*\* Note: accepted speakers will receive a 100% discount code
 
@@ -30,25 +30,25 @@ View the event program [here](https://oideurope2024.openinfra.dev/a/schedule#vie
 
 ### Keynote speakers
 
-<table><tr><td style="max-width:300px;">
+<Grid>
+  <SpeakerCard name="Laurent GAUTROT" role="Responsable infrastructure cloud Ministère de la Transition Écologique">
 
 ![Laurent Gautrot](laurent.png)
 
-</td><td  style="width:5%">&nbsp;</td><td style="max-width:300px;">
+  </SpeakerCard>
+  <SpeakerCard name="Thierry Carrez" role="General Manager the OpenInfra Foundation">
 
 ![Thierry Carrez](thierry-carrez.png)
 
-</td><td  style="width:5%">&nbsp;</td><td style="max-width:300px;">
+  </SpeakerCard>
+  <SpeakerCard name="Nina Landes" role="Cheffe de projet interministériel Cloud DINUM (Direction interministérielle du numérique)">
 
-![](nina-landez.png)
+![Nina Lanez](nina-landez.png)
 
-</td><td  style="width:5%">&nbsp;</td><td style="max-width:300px;">
-
-![](300blank.png)
-
-</td></tr><tr><td style="max-width:300px;"><b>Laurent GAUTROT</b><br/>Responsable infrastructure cloud Ministère de la Transition Écologique</td><td style="max-width:300px;">&nbsp;</td><td style="max-width:300px;"><b>Thierry Carrez</b><br/>General Manager the OpenInfra Foundation</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;"><b>Nina Landes</b><br/>
-Cheffe de projet interministériel Cloud DINUM (Direction interministérielle du numérique)</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;"><b>Renaud Chaillat</b><br/>
-Directeur du projet Nubo DGFIP</td></tr></table>
+  </SpeakerCard>
+  <SpeakerCard name="Renaud Chaillat" role="Directeur du projet Nubo DGFIP">
+  </SpeakerCard>
+</Grid>
 
 ### **Language**
 
@@ -65,56 +65,73 @@ Live translation will be provided for:
 
 ### Platinum Sponsors
 
-<div style="width:100%;align:center;"><table><tr><td style="max-width:300px;">&nbsp;</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
+<Grid
+  minWidth={300}
+  style={{
+    placeItems: "center",
+    paddingTop: "40px",
+    paddingBottom: "40px"
+  }}
+>
 
-![](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/exaion-lg.png)
+![Exaion](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/exaion-lg.png)
 
-</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">&nbsp;
-</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
+![RedHat](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/companies/main_logo/RedHat-lg.png)
 
-![](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/companies/main_logo/RedHat-lg.png)
-
-</td></tr></table></div>
+</Grid>
 
 ### Gold Sponsors
 
-<div style="width:100%;align:center;"><table><tr><td style="max-width:200px;">&nbsp;</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
+<Grid
+  minWidth={250}
+  style={{
+    placeItems: "center",
+    paddingTop: "40px",
+    paddingBottom: "40px"
+  }}
+>
 
 ![Worteks](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/workteks-lg.png)
 
-</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
-
-![](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/mirantis-sm.png)
-
-</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
+![Mirantis](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/mirantis-sm.png)
 
 ![Vexxhost](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/vexxhost-lg2.png)
 
-</td></tr></table></div>
+</Grid>
 
 ### Silver Sponsors
 
-<div style="width:100%;align:center;"><table><tr><td style="max-width:200px;">&nbsp;</td><td style="width:5%">&nbsp;</td><td style="max-width:200px;">
+<Grid
+  minWidth={250}
+  style={{
+    placeItems: "center",
+    paddingTop: "40px",
+    paddingBottom: "40px"
+  }}
+>
 
 ![Worteks](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/bitconsulting-lg.png)
 
-</td><td style="width:5%">&nbsp;</td><td style="max-width:200px;">
+![StackHPC](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/stackhpc-lg.png)
 
-![](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/stackhpc-lg.png)
-
-</td><td style="width:5%">&nbsp;</td><td style="max-width:200px;"></td></tr></table></div>
+</Grid>
 
 ### Media Sponsors
 
-<div style="width:100%;align:center;"><table><tr><td style="max-width:200px;">&nbsp;</td><td style="width:5%">&nbsp;</td><td style="max-width:200px;">
+<Grid
+  minWidth={250}
+  style={{
+    placeItems: "center",
+    paddingTop: "40px",
+    paddingBottom: "40px"
+  }}
+>
 
 ![Kube Careers](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/kube-careers-sm.png)
 
-</td><td style="width:5%">&nbsp;</td><td style="max-width:200px;">
+![Kube Events](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/kubeevents-sm.png)
 
-![](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/kubeevents-sm.png)
-
-</td><td style="width:5%">&nbsp;</td><td style="max-width:200px;">&nbsp;</td></tr></table></div>
+</Grid>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -148,7 +165,7 @@ If traveling by air, Orly airport is the closest, but both Orly (ORY) and Charle
 
 EDF Lab Paris-Saclay is located close to the N118 road (exit 9).
 
-Public car park “Monge” address is 2 rue Jean Pacilly, Palaiseau. Details, including pricing details, are available at <https://www.effia.com/parking/parking-palaiseau-monge-effia>
+Public car park “Monge” address is 2 rue Jean Pacilly, Palaiseau. Details, including pricing details, are available at [https://www.effia.com/parking/parking-palaiseau-monge-effia](https://www.effia.com/parking/parking-palaiseau-monge-effia)
 
 ### Hotels
 
