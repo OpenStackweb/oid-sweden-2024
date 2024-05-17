@@ -46,11 +46,15 @@ community-run OpenInfra Days and Meetups in May and June 2024.
 
 <table><tr><td style="max-width:300px;">
 
-![](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/tsystems-lg2.png)
+![](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/1T1-DT-ITS-New-RGB-p2.png)
 
 </td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
 
 ![](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/OpenStackEU.png)
+
+</td><td style="width:5%">&nbsp;</td><td style="max-width:300px;">
+
+![](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/T-logo-claim-rgb-k2.png)
 
 </td></tr></table>
 
