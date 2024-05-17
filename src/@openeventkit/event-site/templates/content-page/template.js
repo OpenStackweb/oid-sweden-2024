@@ -1,10 +1,8 @@
 import * as React from "react";
 import PropTypes from "prop-types";
 import { MDXProvider } from "@mdx-js/react";
-import Grid from "../../../../components/Grid"; 
-import SpeakerCard from "../../../../components/SpeakerCard"; 
 
-const shortcodes = { Grid, SpeakerCard };
+import shortcodes from "./shortcodes"; 
 
 const ContentPageTemplate = ({ title, content }) => (
   <div className="content container">
