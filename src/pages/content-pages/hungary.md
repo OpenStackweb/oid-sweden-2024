@@ -3,7 +3,7 @@ templateKey: content-page
 title: OpenInfra Day Hungary
 userRequirement: NONE
 ---
-![](oid-hu-sub-page-banner_3.png)
+![](landing-page-banner_3_2980x540.png)
 
 3 June 2024\
 Budapest, Hungary[](https://wing.hu/en/project/telekom-hq)\
@@ -43,7 +43,6 @@ Foundation and is part of OpenInfra Days Europe, a series of
 community-run OpenInfra Days and Meetups in May and June 2024.
 
 ## Thank You to our Local Organizers
-
 
 <Grid minWidth={300} style={{ placeItems: "center" }}>
 
