@@ -1,4 +1,4 @@
-import React from "react";
+import React, { cloneElement } from "react";
 import PropTypes from "prop-types";
 
 const cardStyle = {
@@ -27,11 +27,14 @@ const pStyle = {
   marginBottom: 0
 };
 
-const SpeakerCard = ({ name, role, children }) => {
+const SpeakerCard = ({ name, role, children, ...props }) => {
+  const childrenWithProps = React.Children.map(children, child =>
+    cloneElement(child, { ...props })
+  );
   return (
     <div style={cardStyle}>
       <div style={innerContainerStyle}>
-        <div style={contentStyle}>{children}</div>
+        <div style={contentStyle}>{childrenWithProps}</div>
         <div style={textStyle}>
           <p style={pStyle}>
             <b>{name}</b><br/>
