@@ -16,7 +16,7 @@
     "clean": "find . -name \"node_modules\" -type d -prune -exec rm -rf '{}' + && yarn && yarn gatsby-clean"
   },
   "dependencies": {
-    "@openeventkit/event-site": "2.0.108-beta.9",
+    "@openeventkit/event-site": "2.0.108-beta.11",
     "gatsby": "5.9.1"
   }
 }
