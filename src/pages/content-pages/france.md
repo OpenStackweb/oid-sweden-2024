@@ -7,7 +7,7 @@ userRequirement: NONE
 
 On 22 May 2024, we will gather in Paris-Saclay, France for OpenInfra Day France where open-source experts and enthusiasts will gather to discuss OpenStack, Kubernetes, and the most relevant infrastructure technologies in the ecosystem.
 
-**[Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=468) | [Register Now](https://oideurope2024.openinfra.dev/#registration=1) | [Sponsor](https://openinfra.dev/events/sponsorship#France)**
+**[View the Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=468)**
 
 ### Registration Prices
 
@@ -72,7 +72,6 @@ Live translation will be provided for:
     paddingTop: "40px",
     paddingBottom: "40px"
   }}
->
 
 ![Exaion](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/exaion-lg.png)
 
@@ -89,7 +88,6 @@ Live translation will be provided for:
     paddingTop: "40px",
     paddingBottom: "40px"
   }}
->
 
 ![Worteks](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/workteks-lg.png)
 
@@ -108,7 +106,6 @@ Live translation will be provided for:
     paddingTop: "40px",
     paddingBottom: "40px"
   }}
->
 
 ![Worteks](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/bitconsulting-lg.png)
 
@@ -125,7 +122,6 @@ Live translation will be provided for:
     paddingTop: "40px",
     paddingBottom: "40px"
   }}
->
 
 ![Kube Careers](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/kube-careers-sm.png)
 
@@ -165,7 +161,7 @@ If traveling by air, Orly airport is the closest, but both Orly (ORY) and Charle
 
 EDF Lab Paris-Saclay is located close to the N118 road (exit 9).
 
-Public car park “Monge” address is 2 rue Jean Pacilly, Palaiseau. Details, including pricing details, are available at [https://www.effia.com/parking/parking-palaiseau-monge-effia](https://www.effia.com/parking/parking-palaiseau-monge-effia)
+Public car park “Monge” address is 2 rue Jean Pacilly, Palaiseau. Details, including pricing details, are available at <https://www.effia.com/parking/parking-palaiseau-monge-effia>
 
 ### Hotels
 
