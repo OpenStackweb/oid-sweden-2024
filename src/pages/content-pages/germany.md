@@ -5,7 +5,7 @@ userRequirement: NONE
 ---
 ##### 15 May 2024 | Berlin, Germany | [Villa Elisabeth](https://maps.app.goo.gl/utJZLoyNSDrcskDR7)
 
-**[Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=467) | [Sponsor](https://openinfra.dev/events/sponsorship/#Germany) |** [](https://oideurope2024.openinfra.dev/#registration=1)**[Register Now](https://oideurope2024.openinfra.dev/#registration=1) | [Register for the SCS Summit](https://events.scs.community/scs-summit-2024/)**
+**[View the Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=467)**
 
 After a long time, we can now invite you (again) to OpenInfra Day Germany (formerly OpenStack Day)!
 
@@ -40,7 +40,6 @@ The auditorium where OpenInfra Days Germany sessions will be presented is not ba
     paddingTop: "40px",
     paddingBottom: "40px"
   }}
->
 
 ![B1 Systems](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/b1systems-lg.png)
 
@@ -61,7 +60,6 @@ The auditorium where OpenInfra Days Germany sessions will be presented is not ba
     paddingTop: "40px",
     paddingBottom: "40px"
   }}
->
 
 ![Guug](guug-lg.png)
 
@@ -82,5 +80,3 @@ The event is not-for-profit, organized by community volunteers, supported by the
 We look forward to a great time together in Berlin!
 
 The OpenInfra Day Germany team
-
-**[Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=467) | [Register](https://oideurope2024.openinfra.dev/#registration=1) | [Sponsor](https://openinfra.dev/events/sponsorship/#Germany)**
