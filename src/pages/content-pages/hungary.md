@@ -11,6 +11,8 @@ Budapest, Hungary[](https://wing.hu/en/project/telekom-hq)\
 
 ## [](https://oideurope2024.openinfra.dev/#registration=1)[Register for FREE](https://oideurope2024.openinfra.dev/#registration=1) | [Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=472)
 
+**Did you miss the registration for the in person attendance?** Don’t worry, you can **[follow the event online](<https://dtag.webex.com/dtag-en/j.php?MTID=m1e258339d345b77324091a01d13dc39b>)**! [](https://dtag.webex.com/dtag-en/j.php?MTID=m1e258339d345b77324091a01d13dc39b)
+
 Organized by the [OpenStack Europe
 community](https://www.meetup.com/openstack-europe/) in Hungary, the
 OpenInfra Day (formerly OpenStack Day) is back to Budapest! Our open
@@ -56,18 +58,11 @@ community-run OpenInfra Days and Meetups in May and June 2024.
 
 ## Data privacy information, Recording, Compliance
 
-By registering I give my consent to the data controllers to collect, process and use my personal data for the purposes of processing my registration and sending a reminder letter.
-Data controllers: [OpenInfra Foundation](https://openinfra.dev/privacy-policy) and Deutsche Telekom IT Solutions Hungary Kft (Cg.: 01-09-877517, H-1097 Budapest, Könyves Kálmán krt. 36).
+By registering I give my consent to the data controllers to collect, process and use my personal data for the purposes of processing my registration and sending a reminder letter. Data controllers: [OpenInfra Foundation](https://openinfra.dev/privacy-policy) and Deutsche Telekom IT Solutions Hungary Kft (Cg.: 01-09-877517, H-1097 Budapest, Könyves Kálmán krt. 36).\
 
-During the event, photo and video recordings will be
-taken. These can be published in connection with reporting on the
-event on our websites, the websites of our cooperating partners and on
-social media channels in order to provide
-public information about this event. By registering you
-agree to this practice and acknowledge our [Code of
-Conduct](https://openinfra.dev/legal/code-of-conduct). Please note, that we will stream the keynote & technical presentations on Webex Webinar, but not the panel discussion. \[During the event photo and video….…]\
-\
-For any request regarding the described data processing please contact DT-ITS HU on this email: [HU_DT_TSI_CS_BO@t-systems.co](mailto:HU_DT_TSI_CS_BO@t-systems.com)
+During the event, photo and video recordings will be taken. These can be published in connection with reporting on the event on our websites, the websites of our cooperating partners, on social media channels (Meta, LinkedIn, YouTube) and on DT-ITS’s internal channels, in order to provide public information about this event. By registering you agree to this practice and acknowledge our [Code of Conduct](https://openinfra.dev/legal/code-of-conduct). Please note, that we will stream the whole event in real time on Webex Webinar as well. You can read the data privacy information & declaration of consent in its entirety here.  
+
+For any request regarding the described data processing please contact DT-ITS HU on this email: [HU_DT_TSI_CS_BO@t-systems.com](mailto:HU_DT_TSI_CS_BO@t-systems.com)
 
 #### We look forward to a great time together in Budapest!
 
