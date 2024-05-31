@@ -72,6 +72,7 @@ Live translation will be provided for:
     paddingTop: "40px",
     paddingBottom: "40px"
   }}
+>
 
 ![Exaion](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/exaion-lg.png)
 
@@ -88,6 +89,7 @@ Live translation will be provided for:
     paddingTop: "40px",
     paddingBottom: "40px"
   }}
+>
 
 ![Worteks](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/workteks-lg.png)
 
@@ -106,6 +108,7 @@ Live translation will be provided for:
     paddingTop: "40px",
     paddingBottom: "40px"
   }}
+>
 
 ![Worteks](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/bitconsulting-lg.png)
 
@@ -122,6 +125,7 @@ Live translation will be provided for:
     paddingTop: "40px",
     paddingBottom: "40px"
   }}
+>
 
 ![Kube Careers](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/kube-careers-sm.png)
 
@@ -161,7 +165,7 @@ If traveling by air, Orly airport is the closest, but both Orly (ORY) and Charle
 
 EDF Lab Paris-Saclay is located close to the N118 road (exit 9).
 
-Public car park “Monge” address is 2 rue Jean Pacilly, Palaiseau. Details, including pricing details, are available at <https://www.effia.com/parking/parking-palaiseau-monge-effia>
+Public car park “Monge” address is 2 rue Jean Pacilly, Palaiseau. Details, including pricing details, are available at [https://www.effia.com/parking/parking-palaiseau-monge-effia](https://www.effia.com/parking/parking-palaiseau-monge-effia)
 
 ### Hotels
 

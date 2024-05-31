@@ -1,8 +1,8 @@
-import * as React from "react";
+import React, { useEffect, useRef, useState } from "react";
 import PropTypes from "prop-types";
 import { navigate } from "gatsby";
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
-import Markdown from "markdown-to-jsx";
+import Mdx from "@mdx-js/runtime";
 
 import Layout from "@openeventkit/event-site/src/components/Layout";
 import AttendanceTrackerComponent from "@openeventkit/event-site/src/components/AttendanceTrackerComponent";
@@ -11,6 +11,7 @@ import LiteScheduleComponent from "@openeventkit/event-site/src/components/LiteS
 import DisqusComponent from "@openeventkit/event-site/src/components/DisqusComponent";
 import Countdown from "@openeventkit/event-site/src/components/Countdown";
 import Link from "@openeventkit/event-site/src/components/Link";
+import ResponsiveImage from "@openeventkit/event-site/src/components/ResponsiveImage";
 
 import Masonry from "react-masonry-css";
 import Slider from "react-slick";
@@ -29,6 +30,11 @@ const sliderSettings = {
   slidesToScroll: 1
 };
 
+const shortcodes = {
+  a: Link,
+  img: ResponsiveImage
+};
+
 const MarketingPageTemplate = ({
   location,
   data,
@@ -37,6 +43,22 @@ const MarketingPageTemplate = ({
   summitPhase,
   isLoggedUser,
 }) => {
+  const rightColumnRef = useRef(null);
+  const [rightColumnHeight, setRightColumnHeight] = useState();
+
+  const onResize = () => {
+    if (rightColumnRef?.current) {
+      setRightColumnHeight(rightColumnRef.current.firstChild.clientHeight);
+    }
+  };
+
+  useEffect(() => {
+    onResize();
+    window.addEventListener("resize", onResize);
+    return () => {
+      window.removeEventListener("resize", onResize);
+    };
+  }, [data, rightColumnRef]);
 
   const {
     marketingPageJson: {
@@ -51,8 +73,8 @@ const MarketingPageTemplate = ({
   if (widgets?.schedule && isLoggedUser && summitPhase !== PHASES.BEFORE) {
     scheduleProps = {
       ...scheduleProps,
-      onEventClick: (ev) => navigate(`/a/event/${ev.id}`),
-    }
+      onEventClick: (ev) => navigate(`/a/event/${ev.id}`)
+    };
   }
 
   const shouldRenderMasonry = masonry?.display;
@@ -66,45 +88,51 @@ const MarketingPageTemplate = ({
       />
       {summit && countdown?.display && <Countdown summit={summit} text={countdown?.text} />}
       <div className="columns">
-        <div className={`column mt-3 px-6 py-6 ${shouldRenderMasonry ? "is-half" : ""} ${styles.leftColumn ? styles.leftColumn : ""}`} style={{ position: 'relative' }}>
-          {widgets?.text?.display && widgets?.text?.content &&
-            <div className="container">
-              <Markdown>
-                {widgets.text.content}
-              </Markdown>
-            </div>
+        <div
+          className={`column mt-3 px-6 py-6 ${shouldRenderMasonry ? "is-half" : ""} ${styles.leftColumn || ""}`}
+          style={{ maxHeight: shouldRenderMasonry && rightColumnHeight ? rightColumnHeight : "none" }}
+        >
+          {widgets?.content?.display && widgets?.content?.body &&
+          <div className="container">
+            <Mdx components={shortcodes}>
+              {widgets.content.body}
+            </Mdx>
+          </div>
           }
           {widgets?.schedule?.display &&
-            <>
-              <h2><b>{widgets.schedule.title}</b></h2>
-              <LiteScheduleComponent
-                {...scheduleProps}
-                lastDataSync={lastDataSync}
-                id={`marketing_lite_schedule_${lastDataSync}`}
-                page="marketing-site"
-                showAllEvents={true}
-                showSearch={false}
-                showNav={true}
-              />
-            </>
+          <>
+            <h2><b>{widgets.schedule.title}</b></h2>
+            <LiteScheduleComponent
+              {...scheduleProps}
+              lastDataSync={lastDataSync}
+              id={`marketing_lite_schedule_${lastDataSync}`}
+              page="marketing-site"
+              showAllEvents={true}
+              showSearch={false}
+              showNav={true}
+            />
+          </>
           }
           {widgets?.disqus?.display &&
-            <>
-              <h2><b>{widgets.disqus.title}</b></h2>
-              <DisqusComponent page="marketing-site"/>
-            </>
+          <>
+            <h2><b>{widgets.disqus.title}</b></h2>
+            <DisqusComponent page="marketing-site"/>
+          </>
           }
           {widgets?.image?.display &&
-           widgets?.image?.image.src &&
-            <>
-              <h2><b>{widgets.image.title}</b></h2>
-              <br />
-              <GatsbyImage image={getImage(widgets.image.image.src)} alt={widgets.image.image.alt ?? ""} />
-            </>
+          widgets?.image?.image.src &&
+          <>
+            <h2><b>{widgets.image.title}</b></h2>
+            <br />
+            <GatsbyImage image={getImage(widgets.image.image.src)} alt={widgets.image.image.alt ?? ""} />
+          </>
           }
         </div>
         {shouldRenderMasonry &&
-        <div className={`column is-half px-0 pb-0 ${styles.rightColumn ? styles.rightColumn : ""}`}>
+        <div
+          ref={rightColumnRef}
+          className={`column px-0 pb-0 is-half ${styles.rightColumn || ""}`}
+        >
           <Masonry
             breakpointCols={2}
             className="my-masonry-grid"
@@ -113,7 +141,7 @@ const MarketingPageTemplate = ({
               if (item.images && item.images.length === 1) {
                 const image = getImage(item.images[0].src);
                 return (
-                  <div className={'single'} key={index}>
+                  <div className={"single"} key={index}>
                     {item.images[0].link ?
                       <Link to={item.images[0].link}>
                         <GatsbyImage image={image} alt={item.images[0].alt ?? ""} />
@@ -122,7 +150,7 @@ const MarketingPageTemplate = ({
                       <GatsbyImage image={image} alt={item.images[0].alt ?? ""} />
                     }
                   </div>
-                )
+                );
               } else if (item.images && item.images.length > 1) {
                 return (
                   <Slider {...sliderSettings} key={index}>
@@ -138,14 +166,14 @@ const MarketingPageTemplate = ({
                             <GatsbyImage image={img} alt={image.alt ?? ""} />
                           }
                         </div>
-                      )
+                      );
                     })}
                   </Slider>
-                )
+                );
               } else {
                 return (
                   <div className="single" key={index} />
-                )
+                );
               }
             })}
           </Masonry>
@@ -153,7 +181,7 @@ const MarketingPageTemplate = ({
         }
       </div>
     </Layout>
-  )
+  );
 };
 
 MarketingPageTemplate.propTypes = {
