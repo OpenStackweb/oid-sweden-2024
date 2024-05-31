@@ -21,7 +21,7 @@ The auditorium where OpenInfra Days Germany sessions will be presented is not ba
 
 ### Gold Sponsors
 
-<Grid minWidth={300} style={{ placeItems: "center" }}>
+<Grid minWidth={300} style={{ placeItems: "center" }}
 
 ![SysEleven](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/syseleven-lg.png)
 
