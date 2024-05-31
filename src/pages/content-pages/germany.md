@@ -5,15 +5,13 @@ userRequirement: NONE
 ---
 ##### 15 May 2024 | Berlin, Germany | [Villa Elisabeth](https://maps.app.goo.gl/utJZLoyNSDrcskDR7)
 
-**[View the Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=467)**
+**[View the Schedule](https://oideurope2024.openinfra.dev/a/schedule#view=calendar&track=467)** 
 
 After a long time, we can now invite you (again) to OpenInfra Day Germany (formerly OpenStack Day)!
 
 On May 15, 2024 we will meet together with our community, sponsors, OpenInfra representatives and interested parties in the Villa Elisabeth in Berlin.
 
 OpenInfra Day Germany is being planned in conjunction with the [Sovereign Cloud Stack Summit](https://scs.community/summit2024/)! The Sovereign Cloud Stack Summit will be hosted at the same venue the day prior on 14 May. Please note that registration for OpenInfra Day Germany and the Sovereign Cloud Stack Summit are separate. **You must register for each event separately**. 
-
-Entry to OpenInfra Day Germany is free! [Join us](https://oideurope2024.openinfra.dev/#registration=1) or [sponsor the event!](https://openinfra.dev/events/sponsorship/#Germany)
 
 The auditorium where OpenInfra Days Germany sessions will be presented is not barrier-free (no elevator, only stairways). If you need assistance getting to the auditorium (without an elevator), please [contact us](mailto:events@openinfra.dev).
 
